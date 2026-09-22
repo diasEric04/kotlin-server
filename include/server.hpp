@@ -3,6 +3,12 @@
 #include <QTcpSocket>
 #include <QTcpServer>
 
+struct fileInfo {
+    QString arquivo;
+    QByteArray contentType;
+    QIODeviceBase::OpenMode openFileFlags;
+};
+
 class Server : public QObject {
     Q_OBJECT
 public:
@@ -18,5 +24,6 @@ public slots:
 
 private:
     QTcpServer server;
-    void sendResponse(QTcpSocket *socket, const QByteArray &status, const QByteArray &body);
+    void sendResponse(QTcpSocket *socket, const QByteArray &status, const QByteArray &contentType, const QByteArray &body);
+    static QString navegateFiles(const QString &filePath, int level);
 };
