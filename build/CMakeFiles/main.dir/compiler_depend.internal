@@ -1501,7 +1501,12 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj
 
 CMakeFiles/main.dir/src/server.cpp.obj
  C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/src/server.cpp
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QDir
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QFile
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QIODeviceBase
  C:/Qt/6.9.1/mingw_64/include/QtCore/QObject
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QString
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QTextStream
  C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h
@@ -1523,6 +1528,7 @@ CMakeFiles/main.dir/src/server.cpp.obj
  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h
@@ -1536,8 +1542,14 @@ CMakeFiles/main.dir/src/server.cpp.obj
  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qdir.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qdirlisting.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qexceptionhandling.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qfile.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qfiledevice.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qfileinfo.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qfloat16.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qforeach.h
@@ -1554,6 +1566,7 @@ CMakeFiles/main.dir/src/server.cpp.obj
  C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h
@@ -1606,6 +1619,7 @@ CMakeFiles/main.dir/src/server.cpp.obj
  C:/Qt/6.9.1/mingw_64/include/QtCore/qtenvironmentvariables.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qtextstream.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qtformat_impl.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qtimezone.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qtmetamacros.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qtnoop.h
  C:/Qt/6.9.1/mingw_64/include/QtCore/qtpreprocessorsupport.h
@@ -1671,6 +1685,10 @@ CMakeFiles/main.dir/src/server.cpp.obj
  C:/msys64/mingw64/include/c++/14.2.0/bits/exception.h
  C:/msys64/mingw64/include/c++/14.2.0/bits/exception_defines.h
  C:/msys64/mingw64/include/c++/14.2.0/bits/exception_ptr.h
+ C:/msys64/mingw64/include/c++/14.2.0/bits/fs_dir.h
+ C:/msys64/mingw64/include/c++/14.2.0/bits/fs_fwd.h
+ C:/msys64/mingw64/include/c++/14.2.0/bits/fs_ops.h
+ C:/msys64/mingw64/include/c++/14.2.0/bits/fs_path.h
  C:/msys64/mingw64/include/c++/14.2.0/bits/functexcept.h
  C:/msys64/mingw64/include/c++/14.2.0/bits/functional_hash.h
  C:/msys64/mingw64/include/c++/14.2.0/bits/hash_bytes.h
@@ -1766,6 +1784,7 @@ CMakeFiles/main.dir/src/server.cpp.obj
  C:/msys64/mingw64/include/c++/14.2.0/climits
  C:/msys64/mingw64/include/c++/14.2.0/clocale
  C:/msys64/mingw64/include/c++/14.2.0/cmath
+ C:/msys64/mingw64/include/c++/14.2.0/codecvt
  C:/msys64/mingw64/include/c++/14.2.0/compare
  C:/msys64/mingw64/include/c++/14.2.0/concepts
  C:/msys64/mingw64/include/c++/14.2.0/cstddef
@@ -1786,6 +1805,7 @@ CMakeFiles/main.dir/src/server.cpp.obj
  C:/msys64/mingw64/include/c++/14.2.0/ext/numeric_traits.h
  C:/msys64/mingw64/include/c++/14.2.0/ext/string_conversions.h
  C:/msys64/mingw64/include/c++/14.2.0/ext/type_traits.h
+ C:/msys64/mingw64/include/c++/14.2.0/filesystem
  C:/msys64/mingw64/include/c++/14.2.0/format
  C:/msys64/mingw64/include/c++/14.2.0/functional
  C:/msys64/mingw64/include/c++/14.2.0/initializer_list

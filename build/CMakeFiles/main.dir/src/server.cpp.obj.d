@@ -392,4 +392,28 @@ CMakeFiles/main.dir/src/server.cpp.obj: \
  C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpServer \
- C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpserver.h
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpserver.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QFile \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qfile.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qfiledevice.h \
+ C:/msys64/mingw64/include/c++/14.2.0/filesystem \
+ C:/msys64/mingw64/include/c++/14.2.0/bits/fs_fwd.h \
+ C:/msys64/mingw64/include/c++/14.2.0/bits/fs_path.h \
+ C:/msys64/mingw64/include/c++/14.2.0/codecvt \
+ C:/msys64/mingw64/include/c++/14.2.0/bits/fs_dir.h \
+ C:/msys64/mingw64/include/c++/14.2.0/bits/fs_ops.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QTextStream \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qtextstream.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qstring.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QIODeviceBase \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevicebase.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QDir \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qdir.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qdirlisting.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qfile.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qfileinfo.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qtimezone.h

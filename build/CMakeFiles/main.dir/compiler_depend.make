@@ -1497,7 +1497,12 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_com
   main_autogen/6YEA5652QU/moc_server.cpp
 
 CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/src/server.cpp \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QDir \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QFile \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QIODeviceBase \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QTextStream \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
@@ -1519,6 +1524,7 @@ CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistema
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h \
@@ -1532,8 +1538,14 @@ CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistema
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdir.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdirlisting.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfile.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfiledevice.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfileinfo.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qfloat16.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qforeach.h \
@@ -1550,6 +1562,7 @@ CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistema
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h \
@@ -1602,6 +1615,7 @@ CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistema
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtenvironmentvariables.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtextstream.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtimezone.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtmetamacros.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtnoop.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
@@ -1667,6 +1681,10 @@ CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistema
   C:/msys64/mingw64/include/c++/14.2.0/bits/exception.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/exception_defines.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/exception_ptr.h \
+  C:/msys64/mingw64/include/c++/14.2.0/bits/fs_dir.h \
+  C:/msys64/mingw64/include/c++/14.2.0/bits/fs_fwd.h \
+  C:/msys64/mingw64/include/c++/14.2.0/bits/fs_ops.h \
+  C:/msys64/mingw64/include/c++/14.2.0/bits/fs_path.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/functexcept.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/functional_hash.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/hash_bytes.h \
@@ -1762,6 +1780,7 @@ CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistema
   C:/msys64/mingw64/include/c++/14.2.0/climits \
   C:/msys64/mingw64/include/c++/14.2.0/clocale \
   C:/msys64/mingw64/include/c++/14.2.0/cmath \
+  C:/msys64/mingw64/include/c++/14.2.0/codecvt \
   C:/msys64/mingw64/include/c++/14.2.0/compare \
   C:/msys64/mingw64/include/c++/14.2.0/concepts \
   C:/msys64/mingw64/include/c++/14.2.0/cstddef \
@@ -1782,6 +1801,7 @@ CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistema
   C:/msys64/mingw64/include/c++/14.2.0/ext/numeric_traits.h \
   C:/msys64/mingw64/include/c++/14.2.0/ext/string_conversions.h \
   C:/msys64/mingw64/include/c++/14.2.0/ext/type_traits.h \
+  C:/msys64/mingw64/include/c++/14.2.0/filesystem \
   C:/msys64/mingw64/include/c++/14.2.0/format \
   C:/msys64/mingw64/include/c++/14.2.0/functional \
   C:/msys64/mingw64/include/c++/14.2.0/initializer_list \
@@ -1936,6 +1956,8 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCheckCompilerFlagCommonPatt
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h:
+
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeLanguageInformation.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeGenericSystem.cmake:
@@ -1979,6 +2001,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qassert.h:
 C:/msys64/mingw64/include/c++/14.2.0/numeric:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWebpPluginConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qfile.h:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CheckCXXCompilerFlag.cmake:
 
@@ -2027,6 +2051,8 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/GNUInstallDirs.cmake:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QTextStream:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CMakeCXXLinkerInformation.cmake:
 
@@ -2086,6 +2112,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalT
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-Initialize.cmake:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qdirlisting.h:
+
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/WindowsPaths.cmake:
@@ -2113,6 +2141,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/q20type_traits.h:
 C:/msys64/mingw64/include/stdlib.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h:
+
+C:/msys64/mingw64/include/c++/14.2.0/filesystem:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/stl_heap.h:
 
@@ -2171,6 +2201,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qcomparehelpers.h:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qcompilerdetection.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qconfig.h:
 
@@ -2277,6 +2309,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h:
 C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qfiledevice.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h:
 
@@ -2386,6 +2420,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringmatcher.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/QFile:
+
 C:/msys64/mingw64/include/c++/14.2.0/ostream:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringtokenizer.h:
@@ -2431,6 +2467,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qtcoreglobal.h:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTgaPluginConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h:
+
+C:/msys64/mingw64/include/c++/14.2.0/bits/fs_path.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationmarkers.h:
 
@@ -2489,6 +2527,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake:
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpServer:
 
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpSocket:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qfileinfo.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake:
 
@@ -2724,6 +2764,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/functexcept.h:
 
+C:/msys64/mingw64/include/c++/14.2.0/bits/fs_fwd.h:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake:
@@ -2795,6 +2837,8 @@ C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_atomic.h:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qtimezone.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/pstl/glue_memory_defs.h:
 
@@ -2930,6 +2974,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/Qt6TestConfig.cmake:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/ranges_algobase.h:
 
+C:/msys64/mingw64/include/c++/14.2.0/bits/fs_dir.h:
+
 C:/msys64/mingw64/include/c++/14.2.0/bits/enable_special_members.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/gthr-default.h:
@@ -2982,6 +3028,8 @@ C:/msys64/mingw64/include/c++/14.2.0/bits/uniform_int_dist.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfig.cmake:
 
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake:
@@ -3029,6 +3077,8 @@ C:/msys64/mingw64/include/c++/14.2.0/bits/functional_hash.h:
 C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/ios_base.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qdir.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/istream.tcc:
 
@@ -3325,3 +3375,13 @@ C:/msys64/mingw64/include/stddef.h:
 main_autogen/mocs_compilation.cpp:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtmocconstants.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QDir:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QIODeviceBase:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QString:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h:
+
+C:/msys64/mingw64/include/c++/14.2.0/bits/fs_ops.h:
