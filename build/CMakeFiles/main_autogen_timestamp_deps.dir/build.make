@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos
+CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build
+CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server\build
 
 # Utility rule file for main_autogen_timestamp_deps.
 
@@ -80,6 +80,6 @@ CMakeFiles/main_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/main_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/main_autogen_timestamp_deps.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles\main_autogen_timestamp_deps.dir\DependInfo.cmake "--color=$(COLOR)" main_autogen_timestamp_deps
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\projetos\cpp\feevale\projeto-kotlin-server C:\projetos\cpp\feevale\projeto-kotlin-server C:\projetos\cpp\feevale\projeto-kotlin-server\build C:\projetos\cpp\feevale\projeto-kotlin-server\build C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles\main_autogen_timestamp_deps.dir\DependInfo.cmake "--color=$(COLOR)" main_autogen_timestamp_deps
 .PHONY : CMakeFiles/main_autogen_timestamp_deps.dir/depend
 

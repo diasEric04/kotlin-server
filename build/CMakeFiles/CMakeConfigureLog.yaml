@@ -34,6 +34,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -61,6 +62,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -85,6 +87,8 @@ events:
       - "C:/Program Files/Git/usr/local/bin/mingw32-make.exe"
       - "C:/Program Files/Git/usr/bin/mingw32-make.exe.com"
       - "C:/Program Files/Git/usr/bin/mingw32-make.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/mingw32-make.exe.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/mingw32-make.exe"
       - "C:/Python314/Scripts/mingw32-make.exe.com"
       - "C:/Python314/Scripts/mingw32-make.exe"
       - "C:/Python314/mingw32-make.exe.com"
@@ -139,6 +143,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -166,6 +171,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -208,6 +214,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -235,6 +242,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -260,7 +268,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is GNU, found in:
-        C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/4.4.3/CompilerIdCXX/a.exe
+        C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/4.4.3/CompilerIdCXX/a.exe
       
   -
     kind: "find-v1"
@@ -287,6 +295,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -313,6 +322,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -333,6 +343,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -360,6 +371,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -390,6 +402,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -416,6 +429,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -436,6 +450,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -463,6 +478,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -493,6 +509,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -519,6 +536,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -539,6 +557,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -566,6 +585,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -596,6 +616,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -622,6 +643,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -642,6 +664,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -669,6 +692,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -699,6 +723,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -725,6 +750,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -745,6 +771,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -772,6 +799,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -802,6 +830,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -828,6 +857,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -848,6 +878,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -875,6 +906,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -905,6 +937,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -931,6 +964,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -951,6 +985,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -978,6 +1013,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -1008,6 +1044,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -1034,6 +1071,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -1054,6 +1092,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1081,6 +1120,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -1111,6 +1151,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -1137,6 +1178,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -1157,6 +1199,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1184,6 +1227,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -1214,6 +1258,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -1240,6 +1285,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -1260,6 +1306,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1287,6 +1334,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -1317,6 +1365,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -1343,6 +1392,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -1364,6 +1414,9 @@ events:
       - "C:/Program Files/Git/usr/bin/tapi.com"
       - "C:/Program Files/Git/usr/bin/tapi.exe"
       - "C:/Program Files/Git/usr/bin/tapi"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/tapi.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/tapi.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/tapi"
       - "C:/Python314/Scripts/tapi.com"
       - "C:/Python314/Scripts/tapi.exe"
       - "C:/Python314/Scripts/tapi"
@@ -1442,6 +1495,9 @@ events:
       - "C:/Program Files/CMake/bin/tapi.com"
       - "C:/Program Files/CMake/bin/tapi.exe"
       - "C:/Program Files/CMake/bin/tapi"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/tapi.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/tapi.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/tapi"
@@ -1470,6 +1526,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1497,6 +1554,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -1530,6 +1588,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -1556,6 +1615,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -1577,6 +1637,9 @@ events:
       - "C:/Program Files/Git/usr/bin/gcc-ar-14.2.com"
       - "C:/Program Files/Git/usr/bin/gcc-ar-14.2.exe"
       - "C:/Program Files/Git/usr/bin/gcc-ar-14.2"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar-14.2.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar-14.2.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar-14.2"
       - "C:/Python314/Scripts/gcc-ar-14.2.com"
       - "C:/Python314/Scripts/gcc-ar-14.2.exe"
       - "C:/Python314/Scripts/gcc-ar-14.2"
@@ -1655,6 +1718,9 @@ events:
       - "C:/Program Files/CMake/bin/gcc-ar-14.2.com"
       - "C:/Program Files/CMake/bin/gcc-ar-14.2.exe"
       - "C:/Program Files/CMake/bin/gcc-ar-14.2"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-14.2.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-14.2.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-14.2"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar-14.2.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar-14.2.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar-14.2"
@@ -1685,6 +1751,9 @@ events:
       - "C:/Program Files/Git/usr/bin/gcc-ar-14.com"
       - "C:/Program Files/Git/usr/bin/gcc-ar-14.exe"
       - "C:/Program Files/Git/usr/bin/gcc-ar-14"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar-14.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar-14.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar-14"
       - "C:/Python314/Scripts/gcc-ar-14.com"
       - "C:/Python314/Scripts/gcc-ar-14.exe"
       - "C:/Python314/Scripts/gcc-ar-14"
@@ -1763,6 +1832,9 @@ events:
       - "C:/Program Files/CMake/bin/gcc-ar-14.com"
       - "C:/Program Files/CMake/bin/gcc-ar-14.exe"
       - "C:/Program Files/CMake/bin/gcc-ar-14"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-14.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-14.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-14"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar-14.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar-14.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar-14"
@@ -1793,6 +1865,9 @@ events:
       - "C:/Program Files/Git/usr/bin/gcc-ar14.com"
       - "C:/Program Files/Git/usr/bin/gcc-ar14.exe"
       - "C:/Program Files/Git/usr/bin/gcc-ar14"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar14.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar14.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ar14"
       - "C:/Python314/Scripts/gcc-ar14.com"
       - "C:/Python314/Scripts/gcc-ar14.exe"
       - "C:/Python314/Scripts/gcc-ar14"
@@ -1871,6 +1946,9 @@ events:
       - "C:/Program Files/CMake/bin/gcc-ar14.com"
       - "C:/Program Files/CMake/bin/gcc-ar14.exe"
       - "C:/Program Files/CMake/bin/gcc-ar14"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar14.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar14.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar14"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar14.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar14.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ar14"
@@ -1900,6 +1978,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1927,6 +2006,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -1960,6 +2040,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -1986,6 +2067,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -2007,6 +2089,9 @@ events:
       - "C:/Program Files/Git/usr/bin/gcc-ranlib-14.2.com"
       - "C:/Program Files/Git/usr/bin/gcc-ranlib-14.2.exe"
       - "C:/Program Files/Git/usr/bin/gcc-ranlib-14.2"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib-14.2.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib-14.2.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib-14.2"
       - "C:/Python314/Scripts/gcc-ranlib-14.2.com"
       - "C:/Python314/Scripts/gcc-ranlib-14.2.exe"
       - "C:/Python314/Scripts/gcc-ranlib-14.2"
@@ -2085,6 +2170,9 @@ events:
       - "C:/Program Files/CMake/bin/gcc-ranlib-14.2.com"
       - "C:/Program Files/CMake/bin/gcc-ranlib-14.2.exe"
       - "C:/Program Files/CMake/bin/gcc-ranlib-14.2"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-14.2.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-14.2.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-14.2"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-14.2.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-14.2.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-14.2"
@@ -2115,6 +2203,9 @@ events:
       - "C:/Program Files/Git/usr/bin/gcc-ranlib-14.com"
       - "C:/Program Files/Git/usr/bin/gcc-ranlib-14.exe"
       - "C:/Program Files/Git/usr/bin/gcc-ranlib-14"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib-14.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib-14.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib-14"
       - "C:/Python314/Scripts/gcc-ranlib-14.com"
       - "C:/Python314/Scripts/gcc-ranlib-14.exe"
       - "C:/Python314/Scripts/gcc-ranlib-14"
@@ -2193,6 +2284,9 @@ events:
       - "C:/Program Files/CMake/bin/gcc-ranlib-14.com"
       - "C:/Program Files/CMake/bin/gcc-ranlib-14.exe"
       - "C:/Program Files/CMake/bin/gcc-ranlib-14"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-14.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-14.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-14"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-14.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-14.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-14"
@@ -2223,6 +2317,9 @@ events:
       - "C:/Program Files/Git/usr/bin/gcc-ranlib14.com"
       - "C:/Program Files/Git/usr/bin/gcc-ranlib14.exe"
       - "C:/Program Files/Git/usr/bin/gcc-ranlib14"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib14.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib14.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/gcc-ranlib14"
       - "C:/Python314/Scripts/gcc-ranlib14.com"
       - "C:/Python314/Scripts/gcc-ranlib14.exe"
       - "C:/Python314/Scripts/gcc-ranlib14"
@@ -2301,6 +2398,9 @@ events:
       - "C:/Program Files/CMake/bin/gcc-ranlib14.com"
       - "C:/Program Files/CMake/bin/gcc-ranlib14.exe"
       - "C:/Program Files/CMake/bin/gcc-ranlib14"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib14.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib14.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib14"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib14.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib14.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/gcc-ranlib14"
@@ -2330,6 +2430,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -2357,6 +2458,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -2392,6 +2494,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -2419,6 +2522,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -2461,6 +2565,9 @@ events:
       - "C:/Program Files/Git/usr/bin/windres.com"
       - "C:/Program Files/Git/usr/bin/windres.exe"
       - "C:/Program Files/Git/usr/bin/windres"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/windres.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/windres.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/windres"
       - "C:/Python314/Scripts/windres.com"
       - "C:/Python314/Scripts/windres.exe"
       - "C:/Python314/Scripts/windres"
@@ -2535,6 +2642,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -2562,6 +2670,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -2583,8 +2692,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-72t05k"
-      binary: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-72t05k"
+      source: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-covta5"
+      binary: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-covta5"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2595,13 +2704,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-72t05k'
+        Change Dir: 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-covta5'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_454ca/fast
-        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_454ca.dir\\build.make CMakeFiles/cmTC_454ca.dir/build
-        mingw32-make[1]: Entering directory 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-72t05k'
-        Building CXX object CMakeFiles/cmTC_454ca.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\msys64\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_14bda/fast
+        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_14bda.dir\\build.make CMakeFiles/cmTC_14bda.dir/build
+        mingw32-make[1]: Entering directory 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-covta5'
+        Building CXX object CMakeFiles/cmTC_14bda.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\msys64\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\g++.exe
         Target: x86_64-w64-mingw32
@@ -2609,8 +2718,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 14.2.0 (Rev2, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_454ca.dir\\'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_454ca.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\itala\\AppData\\Local\\Temp\\cceLtjHh.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_14bda.dir\\'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_14bda.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\itala\\AppData\\Local\\Temp\\cc2aBG25.s
         GNU C++17 (Rev2, Built by MSYS2 project) version 14.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 14.2.0, GMP version 6.3.0, MPFR version 4.2.1, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2635,14 +2744,14 @@ events:
          C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed
         End of search list.
         Compiler executable checksum: b3080df56ee40e7913959b3ebedc8b09
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_454ca.dir\\'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\itala\\AppData\\Local\\Temp\\cceLtjHh.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_14bda.dir\\'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\itala\\AppData\\Local\\Temp\\cc2aBG25.s
         GNU assembler version 2.43.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.43.1
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_454ca.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_454ca.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_14bda.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_14bda.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe
@@ -2653,16 +2762,16 @@ events:
         gcc version 14.2.0 (Rev2, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_454ca.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_454ca.'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\cc4VkAIQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_454ca.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_454ca.dir/objects.a --no-whole-archive --out-implib libcmTC_454ca.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_14bda.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_14bda.'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\ccZkycwh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_14bda.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_14bda.dir/objects.a --no-whole-archive --out-implib libcmTC_14bda.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
         collect2 version 14.2.0
-        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\cc4VkAIQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_454ca.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_454ca.dir/objects.a --no-whole-archive --out-implib libcmTC_454ca.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
+        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\ccZkycwh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_14bda.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_14bda.dir/objects.a --no-whole-archive --out-implib libcmTC_14bda.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
         GNU ld (GNU Binutils) 2.43.1
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_454ca.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_454ca.'
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_454ca.dir/objects.a
-        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_454ca.dir/objects.a @CMakeFiles\\cmTC_454ca.dir\\objects1.rsp
-        C:\\msys64\\mingw64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_454ca.dir/objects.a -Wl,--no-whole-archive -o cmTC_454ca.exe -Wl,--out-implib,libcmTC_454ca.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-72t05k'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_14bda.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_14bda.'
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_14bda.dir/objects.a
+        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_14bda.dir/objects.a @CMakeFiles\\cmTC_14bda.dir\\objects1.rsp
+        C:\\msys64\\mingw64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_14bda.dir/objects.a -Wl,--no-whole-archive -o cmTC_14bda.exe -Wl,--out-implib,libcmTC_14bda.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-covta5'
         
       exitCode: 0
   -
@@ -2701,13 +2810,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
-        ignore line: [Change Dir: 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-72t05k']
+        ignore line: [Change Dir: 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-covta5']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_454ca/fast]
-        ignore line: [C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_454ca.dir\\build.make CMakeFiles/cmTC_454ca.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-72t05k']
-        ignore line: [Building CXX object CMakeFiles/cmTC_454ca.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\msys64\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_14bda/fast]
+        ignore line: [C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_14bda.dir\\build.make CMakeFiles/cmTC_14bda.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-covta5']
+        ignore line: [Building CXX object CMakeFiles/cmTC_14bda.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\msys64\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2715,8 +2824,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 14.2.0 (Rev2  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_454ca.dir\\']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_454ca.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\itala\\AppData\\Local\\Temp\\cceLtjHh.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_14bda.dir\\']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_14bda.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\itala\\AppData\\Local\\Temp\\cc2aBG25.s]
         ignore line: [GNU C++17 (Rev2  Built by MSYS2 project) version 14.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 14.2.0  GMP version 6.3.0  MPFR version 4.2.1  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2741,8 +2850,8 @@ events:
         ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: b3080df56ee40e7913959b3ebedc8b09]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_454ca.dir\\']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\itala\\AppData\\Local\\Temp\\cceLtjHh.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_14bda.dir\\']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\itala\\AppData\\Local\\Temp\\cc2aBG25.s]
         ignore line: [GNU assembler version 2.43.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.43.1]
         ignore line: [COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/]
@@ -2753,9 +2862,9 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_454ca.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_454ca.exe]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_454ca.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_14bda.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_14bda.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_14bda.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe]
@@ -2773,13 +2882,13 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_454ca.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_454ca.']
-        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\cc4VkAIQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_454ca.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_454ca.dir/objects.a --no-whole-archive --out-implib libcmTC_454ca.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_14bda.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_14bda.']
+        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\ccZkycwh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_14bda.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_14bda.dir/objects.a --no-whole-archive --out-implib libcmTC_14bda.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\cc4VkAIQ.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\ccZkycwh.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -2801,7 +2910,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_454ca.exe] ==> ignore
+          arg [cmTC_14bda.exe] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o]
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0]
@@ -2812,10 +2921,10 @@ events:
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../..] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_454ca.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_14bda.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_454ca.dll.a] ==> ignore
+          arg [libcmTC_14bda.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2841,9 +2950,9 @@ events:
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
         ignore line: [collect2 version 14.2.0]
-        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\cc4VkAIQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_454ca.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_454ca.dir/objects.a --no-whole-archive --out-implib libcmTC_454ca.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o] ==> linker [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
-        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\cc4VkAIQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_454ca.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_454ca.dir/objects.a --no-whole-archive --out-implib libcmTC_454ca.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
-        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\cc4VkAIQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_454ca.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_454ca.dir/objects.a --no-whole-archive --out-implib libcmTC_454ca.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
+        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\ccZkycwh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_14bda.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_14bda.dir/objects.a --no-whole-archive --out-implib libcmTC_14bda.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o] ==> linker [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
+        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\ccZkycwh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_14bda.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_14bda.dir/objects.a --no-whole-archive --out-implib libcmTC_14bda.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
+        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\itala\\AppData\\Local\\Temp\\ccZkycwh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_14bda.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_14bda.dir/objects.a --no-whole-archive --out-implib libcmTC_14bda.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
         linker tool for 'CXX': C:/msys64/mingw64/x86_64-w64-mingw32/bin/ld.exe -m;i386pep
         remove lib [msvcrt]
         remove lib [msvcrt]
@@ -2889,8 +2998,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-8zg9ub"
-      binary: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-8zg9ub"
+      source: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-iephvu"
+      binary: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-iephvu"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2901,19 +3010,19 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-8zg9ub'
+        Change Dir: 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-iephvu'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_ab4ee/fast
-        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_ab4ee.dir\\build.make CMakeFiles/cmTC_ab4ee.dir/build
-        mingw32-make[1]: Entering directory 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-8zg9ub'
-        Building CXX object CMakeFiles/cmTC_ab4ee.dir/src.cxx.obj
-        C:\\msys64\\mingw64\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++20 -o CMakeFiles\\cmTC_ab4ee.dir\\src.cxx.obj -c C:\\projetos\\cpp\\feevale\\trabalho-sistemas-distribuidos\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8zg9ub\\src.cxx
-        Linking CXX executable cmTC_ab4ee.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_ab4ee.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_ab4ee.dir/objects.a
-        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_ab4ee.dir/objects.a @CMakeFiles\\cmTC_ab4ee.dir\\objects1.rsp
-        C:\\msys64\\mingw64\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_ab4ee.dir/objects.a -Wl,--no-whole-archive -o cmTC_ab4ee.exe -Wl,--out-implib,libcmTC_ab4ee.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_ab4ee.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-8zg9ub'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_d7c6e/fast
+        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_d7c6e.dir\\build.make CMakeFiles/cmTC_d7c6e.dir/build
+        mingw32-make[1]: Entering directory 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-iephvu'
+        Building CXX object CMakeFiles/cmTC_d7c6e.dir/src.cxx.obj
+        C:\\msys64\\mingw64\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++20 -o CMakeFiles\\cmTC_d7c6e.dir\\src.cxx.obj -c C:\\projetos\\cpp\\feevale\\projeto-kotlin-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-iephvu\\src.cxx
+        Linking CXX executable cmTC_d7c6e.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_d7c6e.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_d7c6e.dir/objects.a
+        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_d7c6e.dir/objects.a @CMakeFiles\\cmTC_d7c6e.dir\\objects1.rsp
+        C:\\msys64\\mingw64\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_d7c6e.dir/objects.a -Wl,--no-whole-archive -o cmTC_d7c6e.exe -Wl,--out-implib,libcmTC_d7c6e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_d7c6e.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-iephvu'
         
       exitCode: 0
   -
@@ -2932,8 +3041,8 @@ events:
     checks:
       - "Performing Test HAVE_STDATOMIC"
     directories:
-      source: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-xyw142"
-      binary: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-xyw142"
+      source: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-31x9fh"
+      binary: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-31x9fh"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2944,19 +3053,19 @@ events:
       variable: "HAVE_STDATOMIC"
       cached: true
       stdout: |
-        Change Dir: 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-xyw142'
+        Change Dir: 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-31x9fh'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_92885/fast
-        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_92885.dir\\build.make CMakeFiles/cmTC_92885.dir/build
-        mingw32-make[1]: Entering directory 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-xyw142'
-        Building CXX object CMakeFiles/cmTC_92885.dir/src.cxx.obj
-        C:\\msys64\\mingw64\\bin\\g++.exe -DHAVE_STDATOMIC  -std=gnu++20 -o CMakeFiles\\cmTC_92885.dir\\src.cxx.obj -c C:\\projetos\\cpp\\feevale\\trabalho-sistemas-distribuidos\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xyw142\\src.cxx
-        Linking CXX executable cmTC_92885.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_92885.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_92885.dir/objects.a
-        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_92885.dir/objects.a @CMakeFiles\\cmTC_92885.dir\\objects1.rsp
-        C:\\msys64\\mingw64\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_92885.dir/objects.a -Wl,--no-whole-archive -o cmTC_92885.exe -Wl,--out-implib,libcmTC_92885.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_92885.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/CMakeScratch/TryCompile-xyw142'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_3a924/fast
+        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3a924.dir\\build.make CMakeFiles/cmTC_3a924.dir/build
+        mingw32-make[1]: Entering directory 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-31x9fh'
+        Building CXX object CMakeFiles/cmTC_3a924.dir/src.cxx.obj
+        C:\\msys64\\mingw64\\bin\\g++.exe -DHAVE_STDATOMIC  -std=gnu++20 -o CMakeFiles\\cmTC_3a924.dir\\src.cxx.obj -c C:\\projetos\\cpp\\feevale\\projeto-kotlin-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-31x9fh\\src.cxx
+        Linking CXX executable cmTC_3a924.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3a924.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_3a924.dir/objects.a
+        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_3a924.dir/objects.a @CMakeFiles\\cmTC_3a924.dir\\objects1.rsp
+        C:\\msys64\\mingw64\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_3a924.dir/objects.a -Wl,--no-whole-archive -o cmTC_3a924.exe -Wl,--out-implib,libcmTC_3a924.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_3a924.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/CMakeScratch/TryCompile-31x9fh'
         
       exitCode: 0
   -
@@ -3010,27 +3119,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6CoreToolsConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6CoreToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6coretools-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6coretools-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6CoreTools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6CoreTools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6coretools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6coretools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6CoreTools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6CoreTools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6coretools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6coretools.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -3073,6 +3182,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3100,6 +3210,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -3165,27 +3276,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6ZlibPrivateConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6ZlibPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6zlibprivate-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6zlibprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6ZlibPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6ZlibPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6zlibprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6zlibprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6ZlibPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6ZlibPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6zlibprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6zlibprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -3212,6 +3323,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3239,6 +3351,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -3304,27 +3417,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6EntryPointPrivateConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6EntryPointPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6entrypointprivate-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6entrypointprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6EntryPointPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6EntryPointPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6entrypointprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6entrypointprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6EntryPointPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6EntryPointPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6entrypointprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6entrypointprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -3351,6 +3464,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3378,6 +3492,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -3439,27 +3554,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6CorePrivateConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6CorePrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6coreprivate-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6coreprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6CorePrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6CorePrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6coreprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6coreprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6CorePrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6CorePrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6coreprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6coreprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -3486,6 +3601,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3513,6 +3629,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -3555,6 +3672,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -3581,6 +3699,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -3616,6 +3735,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3643,6 +3763,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -3700,27 +3821,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6CoreConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6CoreConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6core-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6core-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Core.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Core.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6core.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6core.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6Core.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6Core.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6core.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6core.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -3779,6 +3900,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3806,6 +3928,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -3872,27 +3995,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6GuiToolsConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6GuiToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6guitools-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6guitools-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6GuiTools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6GuiTools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6guitools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6guitools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6GuiTools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6GuiTools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6guitools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6guitools.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -3935,6 +4058,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3962,6 +4086,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -4025,27 +4150,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6WidgetsToolsConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6WidgetsToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6widgetstools-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6widgetstools-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6WidgetsTools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6WidgetsTools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6widgetstools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6widgetstools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6WidgetsTools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6WidgetsTools.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6widgetstools.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6widgetstools.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -4088,6 +4213,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -4115,6 +4241,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -4162,6 +4289,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -4189,6 +4317,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -4211,6 +4340,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/vulkan/vulkan.h"
       - "C:/Program Files/Git/usr/local/bin/vulkan/vulkan.h"
       - "C:/Program Files/Git/usr/bin/vulkan/vulkan.h"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/vulkan/vulkan.h"
       - "C:/Python314/Scripts/vulkan/vulkan.h"
       - "C:/Python314/vulkan/vulkan.h"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/vulkan/vulkan.h"
@@ -4238,6 +4368,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/vulkan/vulkan.h"
       - "C:/Program Files/nodejs/vulkan/vulkan.h"
       - "C:/Program Files/CMake/bin/vulkan/vulkan.h"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/vulkan/vulkan.h"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/vulkan/vulkan.h"
       - "C:/Users/itala/AppData/Roaming/npm/vulkan/vulkan.h"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/vulkan/vulkan.h"
@@ -4266,6 +4397,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -4293,6 +4425,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -4340,6 +4473,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -4367,6 +4501,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -4391,6 +4526,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -4418,6 +4554,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -4448,6 +4585,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -4475,6 +4613,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -4527,6 +4666,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -4554,6 +4694,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -4596,6 +4737,9 @@ events:
       - "C:/Program Files/Git/usr/bin/glslc.com"
       - "C:/Program Files/Git/usr/bin/glslc.exe"
       - "C:/Program Files/Git/usr/bin/glslc"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/glslc.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/glslc.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/glslc"
       - "C:/Python314/Scripts/glslc.com"
       - "C:/Python314/Scripts/glslc.exe"
       - "C:/Python314/Scripts/glslc"
@@ -4677,6 +4821,9 @@ events:
       - "C:/Program Files/CMake/bin/glslc.com"
       - "C:/Program Files/CMake/bin/glslc.exe"
       - "C:/Program Files/CMake/bin/glslc"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/glslc.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/glslc.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/glslc"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/glslc.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/glslc.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/glslc"
@@ -4750,6 +4897,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -4777,6 +4925,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -4825,6 +4974,7 @@ events:
       - "C:/Program Files/Git/mingw64/bin/"
       - "C:/Program Files/Git/usr/local/bin/"
       - "C:/Program Files/Git/usr/bin/"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Python314/Scripts/"
       - "C:/Python314/"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/"
@@ -4852,6 +5002,7 @@ events:
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/nodejs/"
       - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/itala/AppData/Roaming/npm/"
       - "C:/Users/itala/AppData/Local/Programs/DockerDesktop/resources/bin/"
@@ -4894,6 +5045,9 @@ events:
       - "C:/Program Files/Git/usr/bin/glslangValidator.com"
       - "C:/Program Files/Git/usr/bin/glslangValidator.exe"
       - "C:/Program Files/Git/usr/bin/glslangValidator"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/glslangValidator.com"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/glslangValidator.exe"
+      - "C:/Program Files (x86)/VMware/VMware Workstation/bin/glslangValidator"
       - "C:/Python314/Scripts/glslangValidator.com"
       - "C:/Python314/Scripts/glslangValidator.exe"
       - "C:/Python314/Scripts/glslangValidator"
@@ -4975,6 +5129,9 @@ events:
       - "C:/Program Files/CMake/bin/glslangValidator.com"
       - "C:/Program Files/CMake/bin/glslangValidator.exe"
       - "C:/Program Files/CMake/bin/glslangValidator"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/glslangValidator.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/glslangValidator.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/glslangValidator"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/glslangValidator.com"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/glslangValidator.exe"
       - "C:/Users/itala/AppData/Local/Microsoft/WindowsApps/glslangValidator"
@@ -5048,6 +5205,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5075,6 +5233,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -5141,27 +5300,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6GuiPrivateConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6GuiPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6guiprivate-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6guiprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6GuiPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6GuiPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6guiprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6guiprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6GuiPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6GuiPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6guiprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6guiprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -5188,6 +5347,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5215,6 +5375,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -5280,27 +5441,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6GuiConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6GuiConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6gui-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6gui-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Gui.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Gui.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6gui.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6gui.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6Gui.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6Gui.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6gui.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6gui.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -5343,6 +5504,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5370,6 +5532,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -5431,27 +5594,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6WidgetsPrivateConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6WidgetsPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6widgetsprivate-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6widgetsprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6WidgetsPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6WidgetsPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6widgetsprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6widgetsprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6WidgetsPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6WidgetsPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6widgetsprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6widgetsprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -5478,6 +5641,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5505,6 +5669,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -5562,27 +5727,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6WidgetsConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6WidgetsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6widgets-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6widgets-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Widgets.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Widgets.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6widgets.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6widgets.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6Widgets.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6Widgets.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6widgets.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6widgets.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -5625,6 +5790,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5652,6 +5818,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -5713,27 +5880,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6NetworkPrivateConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6NetworkPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6networkprivate-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6networkprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6NetworkPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6NetworkPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6networkprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6networkprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6NetworkPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6NetworkPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6networkprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6networkprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -5760,6 +5927,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5787,6 +5955,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -5844,27 +6013,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6NetworkConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6NetworkConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6network-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6network-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Network.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Network.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6network.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6network.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6Network.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6Network.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6network.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6network.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -5915,6 +6084,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5942,6 +6112,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -6003,27 +6174,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6TestPrivateConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6TestPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6testprivate-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6testprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6TestPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6TestPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6testprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6testprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6TestPrivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6TestPrivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6testprivate.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6testprivate.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -6050,6 +6221,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -6077,6 +6249,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -6134,27 +6307,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6TestConfig.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6TestConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6test-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6test-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Test.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Test.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6test.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6test.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6Test.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6Test.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6test.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6test.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -6197,6 +6370,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -6224,6 +6398,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -6299,27 +6474,27 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/Qt6Config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6Config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/qt6-config.cmake"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/Qt6.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/lib/cps/qt6.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/Qt6.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/pkgRedirects/share/cps/qt6.cps"
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -9202,6 +9377,7 @@ events:
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\bin"
         - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
         - "C:\\Python314\\Scripts"
         - "C:\\Python314"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -9229,6 +9405,7 @@ events:
         - "C:\\ProgramData\\chocolatey\\bin"
         - "C:\\Program Files\\nodejs"
         - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\itala\\AppData\\Roaming\\npm"
         - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
@@ -9245,4 +9422,286 @@ events:
         - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6"
         - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/3rdparty/extra-cmake-modules/find-modules"
         - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/3rdparty/kwin"
+...
+
+---
+events:
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsConfig.cmake:85 (find_package)"
+      - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:218 (find_package)"
+      - "CMakeLists.txt:14 (find_package)"
+    name: "Qt6WebSocketsPrivate"
+    configs:
+      -
+        filename: "Qt6WebSocketsPrivate.cps"
+        kind: "cps"
+      -
+        filename: "qt6websocketsprivate.cps"
+        kind: "cps"
+      -
+        filename: "Qt6WebSocketsPrivateConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6websocketsprivate-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "6.9.1"
+      version_complete: "6.9.1"
+      exact: true
+    settings:
+      required: "optional"
+      quiet: true
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6WebSocketsPrivate"
+      search_paths:
+        - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/.."
+        - "C:/Qt/6.9.1/mingw_64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6WebSocketsPrivateConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6websocketsprivate-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6WebSocketsPrivate.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6websocketsprivate.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6WebSocketsPrivate.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6websocketsprivate.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivateConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/qt6websocketsprivate-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsPrivateConfig.cmake"
+      mode: "config"
+      version: "6.9.1"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:\\Qt\\6.9.1\\mingw_64"
+      ENV{PATH}:
+        - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files\\Git\\mingw64\\bin"
+        - "C:\\Program Files\\Git\\usr\\local\\bin"
+        - "C:\\Program Files\\Git\\usr\\bin"
+        - "C:\\Program Files\\Git\\usr\\bin"
+        - "C:\\Program Files\\Git\\mingw64\\bin"
+        - "C:\\Program Files\\Git\\usr\\bin"
+        - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
+        - "C:\\Python314\\Scripts"
+        - "C:\\Python314"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\app\\itala\\product\\21c\\dbhomeXE\\bin"
+        - "C:\\Program Files\\Python313\\Scripts"
+        - "C:\\Program Files\\Python313"
+        - "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.8.9-hotspot\\bin"
+        - "C:\\Program Files\\Eclipse Adoptium\\jre-21.0.8.9-hotspot\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0"
+        - "C:\\WINDOWS\\System32\\OpenSSH"
+        - "C:\\Program Files\\PuTTY"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\dotnet"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\GnuWin32\\bin"
+        - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Qt\\6.9.1\\mingw_64\\bin"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\itala\\AppData\\Roaming\\npm"
+        - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
+        - "C:\\Program Files\\Git\\usr\\bin\\vendor_perl"
+        - "C:\\Program Files\\Git\\usr\\bin\\core_perl"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/TESTE"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files/Git/mingw64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/TESTE"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:218 (find_package)"
+      - "CMakeLists.txt:14 (find_package)"
+    name: "Qt6WebSockets"
+    configs:
+      -
+        filename: "Qt6WebSockets.cps"
+        kind: "cps"
+      -
+        filename: "qt6websockets.cps"
+        kind: "cps"
+      -
+        filename: "Qt6WebSocketsConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6websockets-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6WebSockets"
+      search_paths:
+        - "C:/Qt/6.9.1/mingw_64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/Qt6WebSocketsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/qt6websockets-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/Qt6WebSockets.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/lib/cps/qt6websockets.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/Qt6WebSockets.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/pkgRedirects/share/cps/qt6websockets.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/qt6websockets-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/qt6websockets-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsConfig.cmake"
+      mode: "config"
+      version: "6.9.1"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:\\Qt\\6.9.1\\mingw_64"
+      ENV{PATH}:
+        - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files\\Git\\mingw64\\bin"
+        - "C:\\Program Files\\Git\\usr\\local\\bin"
+        - "C:\\Program Files\\Git\\usr\\bin"
+        - "C:\\Program Files\\Git\\usr\\bin"
+        - "C:\\Program Files\\Git\\mingw64\\bin"
+        - "C:\\Program Files\\Git\\usr\\bin"
+        - "C:\\Users\\itala\\bin"
+        - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin"
+        - "C:\\Python314\\Scripts"
+        - "C:\\Python314"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\app\\itala\\product\\21c\\dbhomeXE\\bin"
+        - "C:\\Program Files\\Python313\\Scripts"
+        - "C:\\Program Files\\Python313"
+        - "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.8.9-hotspot\\bin"
+        - "C:\\Program Files\\Eclipse Adoptium\\jre-21.0.8.9-hotspot\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0"
+        - "C:\\WINDOWS\\System32\\OpenSSH"
+        - "C:\\Program Files\\PuTTY"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\dotnet"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\GnuWin32\\bin"
+        - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Qt\\6.9.1\\mingw_64\\bin"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Users\\itala\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\itala\\AppData\\Roaming\\npm"
+        - "C:\\Users\\itala\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin"
+        - "C:\\Program Files\\Git\\usr\\bin\\vendor_perl"
+        - "C:\\Program Files\\Git\\usr\\bin\\core_perl"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/TESTE"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files/Git/mingw64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/TESTE"
 ...

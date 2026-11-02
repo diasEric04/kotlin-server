@@ -1,17 +1,17 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen",
-	"CMAKE_BINARY_DIR" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos",
+	"BUILD_DIR" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen",
+	"CMAKE_BINARY_DIR" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/projetos/cpp/feevale/projeto-kotlin-server",
 	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/CMakeLists.txt",
-		"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/4.4.3/CMakeSystem.cmake",
+		"C:/projetos/cpp/feevale/projeto-kotlin-server/CMakeLists.txt",
+		"C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/4.4.3/CMakeSystem.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeSystemSpecificInitialize.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-Initialize.cmake",
-		"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/4.4.3/CMakeCXXCompiler.cmake",
+		"C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/4.4.3/CMakeCXXCompiler.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeGenericSystem.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeInitializeConfigs.cmake",
@@ -24,7 +24,7 @@
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-GNU-CXX.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-GNU.cmake",
-		"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/4.4.3/CMakeRCCompiler.cmake",
+		"C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/4.4.3/CMakeRCCompiler.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeRCInformation.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-windres.cmake",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
@@ -371,6 +371,23 @@
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake",
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake",
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessAliasTargets.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsConfigVersion.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsConfigVersionImpl.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsDependencies.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsTargets.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsAdditionalTargetInfo.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsPrivateConfigVersion.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsPrivateConfigVersionImpl.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsPrivateConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsPrivateDependencies.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsPrivateTargets.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsPrivateAdditionalTargetInfo.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSocketsPrivate/Qt6WebSocketsPrivateVersionlessAliasTargets.cmake",
+		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WebSockets/Qt6WebSocketsVersionlessAliasTargets.cmake",
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/Qt6TestConfigVersion.cmake",
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/Qt6TestConfigVersionImpl.cmake",
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/Qt6TestConfig.cmake",
@@ -390,22 +407,28 @@
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/QtTestProperties.cmake",
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/Qt6TestVersionlessAliasTargets.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos",
+	"CMAKE_SOURCE_DIR" : "C:/projetos/cpp/feevale/projeto-kotlin-server",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/deps",
+	"DEP_FILE" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "main_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/include/server.hpp",
+			"C:/projetos/cpp/feevale/projeto-kotlin-server/include/ApiServer.hpp",
 			"Mu",
-			"6YEA5652QU/moc_server.cpp",
+			"6YEA5652QU/moc_ApiServer.cpp",
+			null
+		],
+		[
+			"C:/projetos/cpp/feevale/projeto-kotlin-server/include/MobileServer.hpp",
+			"Mu",
+			"6YEA5652QU/moc_MobileServer.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"MINGW_HAS_SECURE_API=1",
@@ -413,6 +436,7 @@
 		"QT_GUI_LIB",
 		"QT_NETWORK_LIB",
 		"QT_NO_DEBUG",
+		"QT_WEBSOCKETS_LIB",
 		"QT_WIDGETS_LIB",
 		"UNICODE",
 		"WIN32",
@@ -430,15 +454,16 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/include",
-		"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/src",
-		"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build",
+		"C:/projetos/cpp/feevale/projeto-kotlin-server/include",
+		"C:/projetos/cpp/feevale/projeto-kotlin-server/src",
+		"C:/projetos/cpp/feevale/projeto-kotlin-server/build",
 		"C:/Qt/6.9.1/mingw_64/include/QtCore",
 		"C:/Qt/6.9.1/mingw_64/include",
 		"C:/Qt/6.9.1/mingw_64/include/QtGui",
 		"C:/Qt/6.9.1/mingw_64/include/QtWidgets",
 		"C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++",
 		"C:/Qt/6.9.1/mingw_64/include/QtNetwork",
+		"C:/Qt/6.9.1/mingw_64/include/QtWebSockets",
 		"C:/msys64/mingw64/include/c++/14.2.0",
 		"C:/msys64/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
 		"C:/msys64/mingw64/include/c++/14.2.0/backward",
@@ -466,26 +491,27 @@
 		"-E",
 		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 18,
-	"PARSE_CACHE_FILE" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/main_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/main_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/main_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/main_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "C:/projetos/cpp/feevale/projeto-kotlin-server/main.cpp", "Mu", null ],
 		[
-			"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/main.cpp",
+			"C:/projetos/cpp/feevale/projeto-kotlin-server/src/ApiServer.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/src/server.cpp",
+			"C:/projetos/cpp/feevale/projeto-kotlin-server/src/MobileServer.cpp",
 			"Mu",
 			null
 		]

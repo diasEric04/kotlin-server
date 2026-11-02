@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/main.cpp.obj: \
- C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\main.cpp \
+ C:\projetos\cpp\feevale\projeto-kotlin-server\main.cpp \
  C:/Qt/6.9.1/mingw_64/include/QtCore/QCoreApplication \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreapplication.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qglobal.h \
@@ -386,11 +386,11 @@ CMakeFiles/main.dir/main.cpp.obj: \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qset.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qhash.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h \
- C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/include/server.hpp \
+ C:/projetos/cpp/feevale/projeto-kotlin-server/include/MobileServer.hpp \
  C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qobject.h \
- C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpSocket \
- C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpsocket.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpServer \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpserver.h \
  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetwork-config.h \
  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
@@ -400,9 +400,63 @@ CMakeFiles/main.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/14.2.0/cassert \
  C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhostaddress.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpSocket \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpsocket.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
- C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpServer \
- C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpserver.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QByteArray \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearray.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QList \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QMap \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QSet \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qset.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qstring.h \
+ C:/projetos/cpp/feevale/projeto-kotlin-server/include/ApiServer.hpp \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QPointer \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qpointer.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocket \
+ C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocket.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QUrl \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qurl.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QAbstractSocket \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qabstractsocket.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkRequest \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkrequest.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhttpheaders.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QSharedDataPointer \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qshareddata.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QVariant \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/q26numeric.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkProxy \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkproxy.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkrequest.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslError \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslerror.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslcertificate.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qcryptographichash.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qssl.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QFlags \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslConfiguration \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslconfiguration.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslsocket.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpsocket.h \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslerror.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsockets_global.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qtwebsocketsexports.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocketprotocol.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocketServer \
+ C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocketserver.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QHostAddress \
+ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhostaddress.h

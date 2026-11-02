@@ -11,7 +11,7 @@ set(OpenGL_GL_PREFERENCE LEGACY)
 
 find_package(OpenGL REQUIRED)
 
-find_package(Qt6 REQUIRED COMPONENTS Core Widgets Gui Network Test)
+find_package(Qt6 REQUIRED COMPONENTS Core Widgets Gui Network WebSockets Test)
 
 set(CMAKE_AUTOUIC OFF)
 set(CMAKE_AUTOMOC ON)
@@ -36,13 +36,15 @@ endif()
 # qt_wrap_ui(UI_HEADERS ${UI_FILES})
 
 set(HEADERS
-    include/server.hpp
+    include/ApiServer.hpp
+    include/MobileServer.hpp
 )
 
 # Defina os arquivos fontes do projeto
 set(SOURCES
     # ${UI_HEADERS}  # Incluindo o arquivo gerado pelo uic
-    src/server.cpp
+    src/ApiServer.cpp
+    src/MobileServer.cpp
 )
 
 # Adicione o executável
@@ -56,7 +58,7 @@ add_executable(main ${SOURCES} ${HEADERS} main.cpp)
 
 target_include_directories(main PRIVATE ${CMAKE_CURRENT_BINARY_DIR})
 
-target_link_libraries(main PRIVATE Qt6::Core Qt6::Widgets Qt6::Gui Qt6::Network OpenGL::GL)
+target_link_libraries(main PRIVATE Qt6::Core Qt6::Widgets Qt6::Gui Qt6::Network Qt6::WebSockets OpenGL::GL)
 
 # # Ativar geração de testes
 # enable_testing()

@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos
+CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build
+CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles C:\projetos\cpp\feevale\projeto-kotlin-server\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -202,29 +202,53 @@ main_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.s
 .PHONY : main_autogen/mocs_compilation.cpp.s
 
-src/server.obj: src/server.cpp.obj
-.PHONY : src/server.obj
+src/ApiServer.obj: src/ApiServer.cpp.obj
+.PHONY : src/ApiServer.obj
 
 # target to build an object file
-src/server.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/server.cpp.obj
-.PHONY : src/server.cpp.obj
+src/ApiServer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/ApiServer.cpp.obj
+.PHONY : src/ApiServer.cpp.obj
 
-src/server.i: src/server.cpp.i
-.PHONY : src/server.i
+src/ApiServer.i: src/ApiServer.cpp.i
+.PHONY : src/ApiServer.i
 
 # target to preprocess a source file
-src/server.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/server.cpp.i
-.PHONY : src/server.cpp.i
+src/ApiServer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/ApiServer.cpp.i
+.PHONY : src/ApiServer.cpp.i
 
-src/server.s: src/server.cpp.s
-.PHONY : src/server.s
+src/ApiServer.s: src/ApiServer.cpp.s
+.PHONY : src/ApiServer.s
 
 # target to generate assembly for a file
-src/server.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/server.cpp.s
-.PHONY : src/server.cpp.s
+src/ApiServer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/ApiServer.cpp.s
+.PHONY : src/ApiServer.cpp.s
+
+src/MobileServer.obj: src/MobileServer.cpp.obj
+.PHONY : src/MobileServer.obj
+
+# target to build an object file
+src/MobileServer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/MobileServer.cpp.obj
+.PHONY : src/MobileServer.cpp.obj
+
+src/MobileServer.i: src/MobileServer.cpp.i
+.PHONY : src/MobileServer.i
+
+# target to preprocess a source file
+src/MobileServer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/MobileServer.cpp.i
+.PHONY : src/MobileServer.cpp.i
+
+src/MobileServer.s: src/MobileServer.cpp.s
+.PHONY : src/MobileServer.s
+
+# target to generate assembly for a file
+src/MobileServer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/MobileServer.cpp.s
+.PHONY : src/MobileServer.cpp.s
 
 # Help Target
 help:
@@ -243,9 +267,12 @@ help:
 	@echo ... main_autogen/mocs_compilation.obj
 	@echo ... main_autogen/mocs_compilation.i
 	@echo ... main_autogen/mocs_compilation.s
-	@echo ... src/server.obj
-	@echo ... src/server.i
-	@echo ... src/server.s
+	@echo ... src/ApiServer.obj
+	@echo ... src/ApiServer.i
+	@echo ... src/ApiServer.s
+	@echo ... src/MobileServer.obj
+	@echo ... src/MobileServer.i
+	@echo ... src/MobileServer.s
 .PHONY : help
 
 

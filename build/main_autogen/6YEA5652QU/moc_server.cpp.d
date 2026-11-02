@@ -1,5 +1,5 @@
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/6YEA5652QU/moc_server.cpp: C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/include/server.hpp \
-  C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/moc_predefs.h \
+C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/6YEA5652QU/moc_server.cpp: C:/projetos/cpp/feevale/projeto-kotlin-server/include/server.hpp \
+  C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/moc_predefs.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \

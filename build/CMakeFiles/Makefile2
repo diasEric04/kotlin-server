@@ -53,10 +53,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos
+CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build
+CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server\build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -87,14 +87,14 @@ CMakeFiles/main.dir/all: CMakeFiles/main_autogen_timestamp_deps.dir/all
 CMakeFiles/main.dir/all: CMakeFiles/main_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=1,2,3,4,5 "Built target main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target main"
 .PHONY : CMakeFiles/main.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles 0
 .PHONY : CMakeFiles/main.dir/rule
 
 # Convenience name for target.
@@ -104,7 +104,7 @@ main: CMakeFiles/main.dir/rule
 # codegen rule for target.
 CMakeFiles/main.dir/codegen: CMakeFiles/main_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=1,2,3,4,5 "Finished codegen for target main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Finished codegen for target main"
 .PHONY : CMakeFiles/main.dir/codegen
 
 # clean rule for target.
@@ -119,14 +119,14 @@ CMakeFiles/main.dir/clean:
 CMakeFiles/main_autogen_timestamp_deps.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_autogen_timestamp_deps.dir\build.make CMakeFiles/main_autogen_timestamp_deps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_autogen_timestamp_deps.dir\build.make CMakeFiles/main_autogen_timestamp_deps.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num= "Built target main_autogen_timestamp_deps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num= "Built target main_autogen_timestamp_deps"
 .PHONY : CMakeFiles/main_autogen_timestamp_deps.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/main_autogen_timestamp_deps.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/main_autogen_timestamp_deps.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles 0
 .PHONY : CMakeFiles/main_autogen_timestamp_deps.dir/rule
 
 # Convenience name for target.
@@ -136,7 +136,7 @@ main_autogen_timestamp_deps: CMakeFiles/main_autogen_timestamp_deps.dir/rule
 # codegen rule for target.
 CMakeFiles/main_autogen_timestamp_deps.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_autogen_timestamp_deps.dir\build.make CMakeFiles/main_autogen_timestamp_deps.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num= "Finished codegen for target main_autogen_timestamp_deps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num= "Finished codegen for target main_autogen_timestamp_deps"
 .PHONY : CMakeFiles/main_autogen_timestamp_deps.dir/codegen
 
 # clean rule for target.
@@ -151,14 +151,14 @@ CMakeFiles/main_autogen_timestamp_deps.dir/clean:
 CMakeFiles/main_autogen.dir/all: CMakeFiles/main_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_autogen.dir\build.make CMakeFiles/main_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_autogen.dir\build.make CMakeFiles/main_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=6 "Built target main_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=7 "Built target main_autogen"
 .PHONY : CMakeFiles/main_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/main_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/main_autogen.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles 0
 .PHONY : CMakeFiles/main_autogen.dir/rule
 
 # Convenience name for target.
@@ -168,7 +168,7 @@ main_autogen: CMakeFiles/main_autogen.dir/rule
 # codegen rule for target.
 CMakeFiles/main_autogen.dir/codegen: CMakeFiles/main_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_autogen.dir\build.make CMakeFiles/main_autogen.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=6 "Finished codegen for target main_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=7 "Finished codegen for target main_autogen"
 .PHONY : CMakeFiles/main_autogen.dir/codegen
 
 # clean rule for target.

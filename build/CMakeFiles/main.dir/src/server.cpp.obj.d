@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/src/server.cpp.obj: \
- C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\src\server.cpp \
- C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/include/server.hpp \
+ C:\projetos\cpp\feevale\projeto-kotlin-server\src\server.cpp \
+ C:/projetos/cpp/feevale/projeto-kotlin-server/include/server.hpp \
  C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qobject.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs.h \

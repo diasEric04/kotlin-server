@@ -9,9 +9,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "main_autogen/timestamp" "custom" "main_autogen/deps"
-  "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/main.cpp" "CMakeFiles/main.dir/main.cpp.obj" "gcc" "CMakeFiles/main.dir/main.cpp.obj.d"
-  "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/mocs_compilation.cpp" "CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj.d"
-  "C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/src/server.cpp" "CMakeFiles/main.dir/src/server.cpp.obj" "gcc" "CMakeFiles/main.dir/src/server.cpp.obj.d"
+  "C:/projetos/cpp/feevale/projeto-kotlin-server/main.cpp" "CMakeFiles/main.dir/main.cpp.obj" "gcc" "CMakeFiles/main.dir/main.cpp.obj.d"
+  "C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/mocs_compilation.cpp" "CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj.d"
+  "C:/projetos/cpp/feevale/projeto-kotlin-server/src/ApiServer.cpp" "CMakeFiles/main.dir/src/ApiServer.cpp.obj" "gcc" "CMakeFiles/main.dir/src/ApiServer.cpp.obj.d"
+  "C:/projetos/cpp/feevale/projeto-kotlin-server/src/MobileServer.cpp" "CMakeFiles/main.dir/src/MobileServer.cpp.obj" "gcc" "CMakeFiles/main.dir/src/MobileServer.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

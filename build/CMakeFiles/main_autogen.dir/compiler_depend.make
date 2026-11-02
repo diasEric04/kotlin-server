@@ -43,7 +43,13 @@ main_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-windres.cmake \
   C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows.cmake \
   C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/WindowsPaths.cmake \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QByteArray \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QList \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QMap \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QPointer \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QSet \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
@@ -111,6 +117,7 @@ main_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qoverload.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qpointer.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qrefcount.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qscopedpointer.h \
@@ -673,14 +680,16 @@ main_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h \
-  C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/CMakeLists.txt \
+  C:/projetos/cpp/feevale/projeto-kotlin-server/CMakeLists.txt \
   CMakeFiles/4.4.3/CMakeCXXCompiler.cmake \
   CMakeFiles/4.4.3/CMakeRCCompiler.cmake \
   CMakeFiles/4.4.3/CMakeSystem.cmake \
   main_autogen/moc_predefs.h \
-  C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/include/server.hpp \
-  C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/main.cpp \
-  C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/src/server.cpp
+  C:/projetos/cpp/feevale/projeto-kotlin-server/include/ApiServer.hpp \
+  C:/projetos/cpp/feevale/projeto-kotlin-server/include/MobileServer.hpp \
+  C:/projetos/cpp/feevale/projeto-kotlin-server/main.cpp \
+  C:/projetos/cpp/feevale/projeto-kotlin-server/src/ApiServer.cpp \
+  C:/projetos/cpp/feevale/projeto-kotlin-server/src/MobileServer.cpp
 
 
 C:/msys64/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/ctype_inline.h:
@@ -751,8 +760,6 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeSystemSpecificInitialize.cm
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Linker/Windows-GNU.cmake:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/qbindingstorage.h:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qmetacontainer.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake:
@@ -775,6 +782,10 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/QtTestProperties.cmake:
 
+main_autogen/moc_predefs.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QByteArray:
+
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CheckLibraryExists.cmake:
 
 C:/msys64/mingw64/include/c++/14.2.0/pstl/glue_numeric_defs.h:
@@ -790,10 +801,6 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/FindOpenGL.cmake:
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/FindPackageMessage.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qhash.h:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h:
-
-C:/msys64/mingw64/include/c++/14.2.0/array:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/Qt6TestTargets-relwithdebinfo.cmake:
 
@@ -823,9 +830,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateAdditionalTargetInfo
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CMakeCommonLinkerInformation.cmake:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h:
-
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CheckCommon.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CheckCompilerFlag.cmake:
 
@@ -839,6 +846,12 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CheckFlagCommonConfig.c
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateAdditionalTargetInfo.cmake:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qstring.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QPointer:
+
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CheckSourceCompiles.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessAliasTargets.cmake:
@@ -850,8 +863,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qanystringview.h:
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-GNU-CXX.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/FindWrapAtomic.cmake:
-
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/include/server.hpp:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringview.h:
 
@@ -869,6 +880,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qstringliteral.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake:
 
+C:/projetos/cpp/feevale/projeto-kotlin-server/main.cpp:
+
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-Initialize.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows.cmake:
@@ -877,7 +890,17 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/WindowsPaths.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/QList:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QMap:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/QObject:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QSet:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/QString:
 
 C:/msys64/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h:
 
@@ -895,8 +918,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/q20type_traits.h:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h:
-
 C:/msys64/mingw64/include/c++/14.2.0/bits/stl_heap.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h:
@@ -913,11 +934,11 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qglobal.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydatapointer.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h:
+
 C:/msys64/mingw64/include/c++/14.2.0/bits/stl_tempbuf.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qatomic.h:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/alloc_traits.h:
 
@@ -927,9 +948,15 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qbindingstorage.h:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6NetworkPrivate/Qt6NetworkPrivateConfigVersionImpl.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearray.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h:
+
+C:/msys64/mingw64/include/c++/14.2.0/array:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h:
 
@@ -1000,6 +1027,8 @@ C:/msys64/mingw64/include/c++/14.2.0/bits/node_handle.h:
 C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionaltools_impl.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionpointer.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qpointer.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qgenericatomic.h:
 
@@ -1093,8 +1122,6 @@ C:/msys64/mingw64/include/c++/14.2.0/iterator:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs.h:
 
-C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs_impl.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/chrono_io.h:
@@ -1140,10 +1167,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qspan.h:
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstdlibdetection.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6NetworkPrivate/Qt6NetworkPrivateConfig.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qstring.h:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake:
 
@@ -1289,8 +1312,6 @@ C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkglobal.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/atomic_lockfree_defines.h:
 
-C:/msys64/mingw64/include/c++/14.2.0/bits/std_function.h:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:
@@ -1301,11 +1322,11 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6NetworkPrivate/Qt6NetworkPrivateVersionlessAliasTargets.cmake:
 
+C:/msys64/mingw64/include/c++/14.2.0/bits/sstream.tcc:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WidgetsPrivate/Qt6WidgetsPrivateAdditionalTargetInfo.cmake:
-
-C:/msys64/mingw64/include/c++/14.2.0/bits/sstream.tcc:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake:
 
@@ -1394,6 +1415,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets-relwi
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake:
+
+C:/projetos/cpp/feevale/projeto-kotlin-server/src/ApiServer.cpp:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake:
 
@@ -1553,9 +1576,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTa
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersion.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake:
-
 C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_atomic.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
 
@@ -1584,8 +1607,6 @@ C:/msys64/mingw64/include/c++/14.2.0/bits/uses_allocator.h:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake:
-
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/CMakeLists.txt:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets-relwithdebinfo.cmake:
 
@@ -1825,11 +1846,15 @@ C:/msys64/mingw64/include/c++/14.2.0/bits/refwrap.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr.h:
 
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:
+
 C:/msys64/mingw64/include/c++/14.2.0/bits/specfun.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/cstdint:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/std_abs.h:
+
+C:/msys64/mingw64/include/c++/14.2.0/bits/std_function.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/std_mutex.h:
 
@@ -2035,10 +2060,12 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h:
 
+C:/projetos/cpp/feevale/projeto-kotlin-server/CMakeLists.txt:
+
 CMakeFiles/4.4.3/CMakeSystem.cmake:
 
-main_autogen/moc_predefs.h:
+C:/projetos/cpp/feevale/projeto-kotlin-server/include/ApiServer.hpp:
 
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/main.cpp:
+C:/projetos/cpp/feevale/projeto-kotlin-server/include/MobileServer.hpp:
 
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/src/server.cpp:
+C:/projetos/cpp/feevale/projeto-kotlin-server/src/MobileServer.cpp:

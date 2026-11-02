@@ -1,5 +1,5 @@
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/main.dir
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/edit_cache.dir
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/rebuild_cache.dir
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/main_autogen_timestamp_deps.dir
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/main_autogen.dir
+C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/main.dir
+C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/edit_cache.dir
+C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/rebuild_cache.dir
+C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/main_autogen_timestamp_deps.dir
+C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/main_autogen.dir

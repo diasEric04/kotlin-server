@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/cmake_install.cmake"
+		"C:/projetos/cpp/feevale/projeto-kotlin-server/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

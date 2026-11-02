@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos
+CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build
+CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -70,9 +70,9 @@ include CMakeFiles/main.dir/flags.make
 
 main_autogen/timestamp: C:/Qt/6.9.1/mingw_64/bin/moc.exe
 main_autogen/timestamp: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target main"
-	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/main_autogen.dir/AutogenInfo.json ""
-	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target main"
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/main_autogen.dir/AutogenInfo.json ""
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/timestamp
 
 CMakeFiles/main.dir/codegen:
 .PHONY : CMakeFiles/main.dir/codegen
@@ -81,72 +81,90 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: CMakeFiles/main.dir/f
 CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_compilation.cpp
 CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\main.dir\main_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\main.dir\main_autogen\mocs_compilation.cpp.obj -c C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\main_autogen\mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\main.dir\main_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\main.dir\main_autogen\mocs_compilation.cpp.obj -c C:\projetos\cpp\feevale\projeto-kotlin-server\build\main_autogen\mocs_compilation.cpp
 
 CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\main_autogen\mocs_compilation.cpp > CMakeFiles\main.dir\main_autogen\mocs_compilation.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\projetos\cpp\feevale\projeto-kotlin-server\build\main_autogen\mocs_compilation.cpp > CMakeFiles\main.dir\main_autogen\mocs_compilation.cpp.i
 
 CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\main_autogen\mocs_compilation.cpp -o CMakeFiles\main.dir\main_autogen\mocs_compilation.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\projetos\cpp\feevale\projeto-kotlin-server\build\main_autogen\mocs_compilation.cpp -o CMakeFiles\main.dir\main_autogen\mocs_compilation.cpp.s
 
-CMakeFiles/main.dir/src/server.cpp.obj: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/src/server.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
-CMakeFiles/main.dir/src/server.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/src/server.cpp
-CMakeFiles/main.dir/src/server.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/server.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/server.cpp.obj -MF CMakeFiles\main.dir\src\server.cpp.obj.d -o CMakeFiles\main.dir\src\server.cpp.obj -c C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\src\server.cpp
+CMakeFiles/main.dir/src/ApiServer.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/ApiServer.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/src/ApiServer.cpp
+CMakeFiles/main.dir/src/ApiServer.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/ApiServer.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/ApiServer.cpp.obj -MF CMakeFiles\main.dir\src\ApiServer.cpp.obj.d -o CMakeFiles\main.dir\src\ApiServer.cpp.obj -c C:\projetos\cpp\feevale\projeto-kotlin-server\src\ApiServer.cpp
 
-CMakeFiles/main.dir/src/server.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/server.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\src\server.cpp > CMakeFiles\main.dir\src\server.cpp.i
+CMakeFiles/main.dir/src/ApiServer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/ApiServer.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\projetos\cpp\feevale\projeto-kotlin-server\src\ApiServer.cpp > CMakeFiles\main.dir\src\ApiServer.cpp.i
 
-CMakeFiles/main.dir/src/server.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/server.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\src\server.cpp -o CMakeFiles\main.dir\src\server.cpp.s
+CMakeFiles/main.dir/src/ApiServer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/ApiServer.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\projetos\cpp\feevale\projeto-kotlin-server\src\ApiServer.cpp -o CMakeFiles\main.dir\src\ApiServer.cpp.s
+
+CMakeFiles/main.dir/src/MobileServer.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/MobileServer.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/src/MobileServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/src/MobileServer.cpp
+CMakeFiles/main.dir/src/MobileServer.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/src/MobileServer.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/MobileServer.cpp.obj -MF CMakeFiles\main.dir\src\MobileServer.cpp.obj.d -o CMakeFiles\main.dir\src\MobileServer.cpp.obj -c C:\projetos\cpp\feevale\projeto-kotlin-server\src\MobileServer.cpp
+
+CMakeFiles/main.dir/src/MobileServer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/MobileServer.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\projetos\cpp\feevale\projeto-kotlin-server\src\MobileServer.cpp > CMakeFiles\main.dir\src\MobileServer.cpp.i
+
+CMakeFiles/main.dir/src/MobileServer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/MobileServer.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\projetos\cpp\feevale\projeto-kotlin-server\src\MobileServer.cpp -o CMakeFiles\main.dir\src\MobileServer.cpp.s
 
 CMakeFiles/main.dir/main.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/main.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
-CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/main.cpp
+CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/main.cpp
 CMakeFiles/main.dir/main.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/main.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.obj -MF CMakeFiles\main.dir\main.cpp.obj.d -o CMakeFiles\main.dir\main.cpp.obj -c C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/main.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.obj -MF CMakeFiles\main.dir\main.cpp.obj.d -o CMakeFiles\main.dir\main.cpp.obj -c C:\projetos\cpp\feevale\projeto-kotlin-server\main.cpp
 
 CMakeFiles/main.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/main.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\main.cpp > CMakeFiles\main.dir\main.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\projetos\cpp\feevale\projeto-kotlin-server\main.cpp > CMakeFiles\main.dir\main.cpp.i
 
 CMakeFiles/main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\main.cpp -o CMakeFiles\main.dir\main.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\projetos\cpp\feevale\projeto-kotlin-server\main.cpp -o CMakeFiles\main.dir\main.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj" \
-"CMakeFiles/main.dir/src/server.cpp.obj" \
+"CMakeFiles/main.dir/src/ApiServer.cpp.obj" \
+"CMakeFiles/main.dir/src/MobileServer.cpp.obj" \
 "CMakeFiles/main.dir/main.cpp.obj"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: CMakeFiles/main.dir/src/server.cpp.obj
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: CMakeFiles/main.dir/main.cpp.obj
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: CMakeFiles/main.dir/build.make
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Network.a
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Core.a
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: CMakeFiles/main.dir/linkLibs.rsp
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: CMakeFiles/main.dir/objects1.rsp
-C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\bin\main.exe"
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: CMakeFiles/main.dir/src/ApiServer.cpp.obj
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: CMakeFiles/main.dir/src/MobileServer.cpp.obj
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: CMakeFiles/main.dir/main.cpp.obj
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: CMakeFiles/main.dir/build.make
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6WebSockets.a
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Network.a
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Core.a
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: CMakeFiles/main.dir/linkLibs.rsp
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: CMakeFiles/main.dir/objects1.rsp
+C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe: CMakeFiles/main.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable C:\projetos\cpp\feevale\projeto-kotlin-server\bin\main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/main.dir/build: C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/bin/main.exe
+CMakeFiles/main.dir/build: C:/projetos/cpp/feevale/projeto-kotlin-server/bin/main.exe
 .PHONY : CMakeFiles/main.dir/build
 
 CMakeFiles/main.dir/clean:
@@ -154,6 +172,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend: main_autogen/timestamp
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles\main.dir\DependInfo.cmake "--color=$(COLOR)" main
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\projetos\cpp\feevale\projeto-kotlin-server C:\projetos\cpp\feevale\projeto-kotlin-server C:\projetos\cpp\feevale\projeto-kotlin-server\build C:\projetos\cpp\feevale\projeto-kotlin-server\build C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles\main.dir\DependInfo.cmake "--color=$(COLOR)" main
 .PHONY : CMakeFiles/main.dir/depend
 

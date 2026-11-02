@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos
+CMAKE_SOURCE_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build
+CMAKE_BINARY_DIR = C:\projetos\cpp\feevale\projeto-kotlin-server\build
 
 # Utility rule file for main_autogen.
 
@@ -69,9 +69,9 @@ CMakeFiles/main_autogen: main_autogen/timestamp
 
 main_autogen/timestamp: C:/Qt/6.9.1/mingw_64/bin/moc.exe
 main_autogen/timestamp: CMakeFiles/main_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target main"
-	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/CMakeFiles/main_autogen.dir/AutogenInfo.json ""
-	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/projetos/cpp/feevale/trabalho-sistemas-distribuidos/build/main_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target main"
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/projetos/cpp/feevale/projeto-kotlin-server/build/CMakeFiles/main_autogen.dir/AutogenInfo.json ""
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/timestamp
 
 CMakeFiles/main_autogen.dir/codegen:
 .PHONY : CMakeFiles/main_autogen.dir/codegen
@@ -90,6 +90,6 @@ CMakeFiles/main_autogen.dir/clean:
 .PHONY : CMakeFiles/main_autogen.dir/clean
 
 CMakeFiles/main_autogen.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build C:\projetos\cpp\feevale\trabalho-sistemas-distribuidos\build\CMakeFiles\main_autogen.dir\DependInfo.cmake "--color=$(COLOR)" main_autogen
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\projetos\cpp\feevale\projeto-kotlin-server C:\projetos\cpp\feevale\projeto-kotlin-server C:\projetos\cpp\feevale\projeto-kotlin-server\build C:\projetos\cpp\feevale\projeto-kotlin-server\build C:\projetos\cpp\feevale\projeto-kotlin-server\build\CMakeFiles\main_autogen.dir\DependInfo.cmake "--color=$(COLOR)" main_autogen
 .PHONY : CMakeFiles/main_autogen.dir/depend
 
