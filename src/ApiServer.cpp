@@ -16,7 +16,7 @@ using std::function;
 
 namespace {
 
-const char *MOBILE_HOST = "192.168.1.6";
+const char *MOBILE_HOST = "127.0.0.1";
 constexpr quint16 MOBILE_PORT = 5000;
 constexpr int MOBILE_TIMEOUT_MS = 10000;
 
