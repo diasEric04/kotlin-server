@@ -416,7 +416,6 @@ C:/projetos/cpp/feevale/projeto-kotlin-server/include/ApiServer.hpp
  mdp:C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h
  mdp:C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/moc_predefs.h
  mdp:C:/projetos/cpp/feevale/projeto-kotlin-server/include/ApiServer.hpp
-C:/projetos/cpp/feevale/projeto-kotlin-server/main.cpp
 C:/projetos/cpp/feevale/projeto-kotlin-server/include/MobileServer.hpp
  mmc:Q_OBJECT
  mdp:C:/Qt/6.9.1/mingw_64/include/QtCore/QByteArray
@@ -804,5 +803,6 @@ C:/projetos/cpp/feevale/projeto-kotlin-server/include/MobileServer.hpp
  mdp:C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h
  mdp:C:/projetos/cpp/feevale/projeto-kotlin-server/build/main_autogen/moc_predefs.h
  mdp:C:/projetos/cpp/feevale/projeto-kotlin-server/include/MobileServer.hpp
+C:/projetos/cpp/feevale/projeto-kotlin-server/main.cpp
 C:/projetos/cpp/feevale/projeto-kotlin-server/src/ApiServer.cpp
 C:/projetos/cpp/feevale/projeto-kotlin-server/src/MobileServer.cpp

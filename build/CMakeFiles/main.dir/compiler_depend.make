@@ -741,10 +741,16 @@ CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/
   C:/Qt/6.9.1/mingw_64/include/QtCore/QByteArray \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QCoreApplication \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QDebug \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QFlags \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QList \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QMap \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QPointer \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QSet \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QSharedDataPointer \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QUrl \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QVariant \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
@@ -752,6 +758,7 @@ CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20type_traits.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q26numeric.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qabstracteventdispatcher.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qanystringview.h \
@@ -768,6 +775,7 @@ CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h \
@@ -782,8 +790,10 @@ CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreapplication.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreapplication_platform.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreevent.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcryptographichash.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdeadlinetimer.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qelapsedtimer.h \
@@ -805,6 +815,7 @@ CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h \
@@ -821,6 +832,7 @@ CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/
   C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qoverload.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qpointer.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qrefcount.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qscopedpointer.h \
@@ -868,21 +880,43 @@ CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qutf8stringview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QAbstractSocket \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QHostAddress \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkProxy \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkRequest \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslConfiguration \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslError \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpServer \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpSocket \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qabstractsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhostaddress.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhttpheaders.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkproxy.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkrequest.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qssl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslcertificate.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslconfiguration.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslerror.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpserver.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetwork-config.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocket \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocketServer \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qtwebsocketsexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocket.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocketprotocol.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsockets_global.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocketserver.h \
   C:/msys64/mingw64/include/_mingw.h \
   C:/msys64/mingw64/include/_mingw_mac.h \
   C:/msys64/mingw64/include/_mingw_off_t.h \
@@ -1154,10 +1188,16 @@ CMakeFiles/main.dir/main.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/
 
 CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_compilation.cpp \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QByteArray \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QFlags \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QList \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QMap \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QPointer \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QSet \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QSharedDataPointer \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QUrl \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QVariant \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20algorithm.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
@@ -1167,6 +1207,7 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_com
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q23type_traits.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q26numeric.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qanystringview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydata.h \
@@ -1181,6 +1222,7 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_com
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h \
@@ -1192,8 +1234,10 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_com
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainerinfo.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainertools_impl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcryptographichash.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qexceptionhandling.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h \
@@ -1212,6 +1256,7 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_com
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h \
@@ -1227,6 +1272,7 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_com
   C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qoverload.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qpointer.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qrefcount.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qscopedpointer.h \
@@ -1276,21 +1322,43 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_com
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qutf8stringview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QAbstractSocket \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QHostAddress \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkProxy \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkRequest \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslConfiguration \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslError \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpServer \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpSocket \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qabstractsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhostaddress.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhttpheaders.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkproxy.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkrequest.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qssl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslcertificate.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslconfiguration.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslerror.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpserver.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetwork-config.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocket \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocketServer \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qtwebsocketsexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocket.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocketprotocol.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsockets_global.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocketserver.h \
   C:/msys64/mingw64/include/_mingw.h \
   C:/msys64/mingw64/include/_mingw_mac.h \
   C:/msys64/mingw64/include/_mingw_off_t.h \
@@ -1563,14 +1631,22 @@ CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj: main_autogen/mocs_com
   main_autogen/6YEA5652QU/moc_MobileServer.cpp
 
 CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/src/ApiServer.cpp \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/QDir \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/QFile \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/QIODeviceBase \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QByteArray \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QDebug \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QFlags \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonArray \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonDocument \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonObject \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonValue \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QList \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QMap \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QPointer \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QSharedDataPointer \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/QTextStream \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QTimer \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QUrl \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QVariant \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
@@ -1578,6 +1654,7 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20type_traits.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q26numeric.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qabstracteventdispatcher.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qanystringview.h \
@@ -1595,6 +1672,8 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcborcommon.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcborvalue.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h \
@@ -1606,19 +1685,16 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainerinfo.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainertools_impl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcryptographichash.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdeadlinetimer.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/qdir.h \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/qdirlisting.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qelapsedtimer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qendian.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qeventloop.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qexceptionhandling.h \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/qfile.h \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/qfiledevice.h \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/qfileinfo.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qfloat16.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qforeach.h \
@@ -1633,6 +1709,11 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevicebase.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiterable.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonarray.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsondocument.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonobject.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonparseerror.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonvalue.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h \
@@ -1654,6 +1735,7 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/Qt/6.9.1/mingw_64/include/QtCore/qpointer.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qregularexpression.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qscopeguard.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qset.h \
@@ -1690,7 +1772,6 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtextstream.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtformat_impl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtimer.h \
-  C:/Qt/6.9.1/mingw_64/include/QtCore/qtimezone.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtmetamacros.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtnoop.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
@@ -1701,21 +1782,42 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/quuid.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qyieldcpu.h \
-  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpServer \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QAbstractSocket \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QHostAddress \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkProxy \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkRequest \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslConfiguration \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslError \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpSocket \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qabstractsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhostaddress.h \
-  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpserver.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qhttpheaders.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkproxy.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qnetworkrequest.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qssl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslcertificate.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslconfiguration.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslerror.h \
+  C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtcpsocket.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetwork-config.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
   C:/Qt/6.9.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocket \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocketServer \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qtwebsocketsexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocket.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocketprotocol.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsockets_global.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWebSockets/qwebsocketserver.h \
   C:/msys64/mingw64/include/_mingw.h \
   C:/msys64/mingw64/include/_mingw_mac.h \
   C:/msys64/mingw64/include/_mingw_off_t.h \
@@ -1756,10 +1858,6 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/msys64/mingw64/include/c++/14.2.0/bits/exception.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/exception_defines.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/exception_ptr.h \
-  C:/msys64/mingw64/include/c++/14.2.0/bits/fs_dir.h \
-  C:/msys64/mingw64/include/c++/14.2.0/bits/fs_fwd.h \
-  C:/msys64/mingw64/include/c++/14.2.0/bits/fs_ops.h \
-  C:/msys64/mingw64/include/c++/14.2.0/bits/fs_path.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/functexcept.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/functional_hash.h \
   C:/msys64/mingw64/include/c++/14.2.0/bits/hash_bytes.h \
@@ -1855,7 +1953,6 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/msys64/mingw64/include/c++/14.2.0/climits \
   C:/msys64/mingw64/include/c++/14.2.0/clocale \
   C:/msys64/mingw64/include/c++/14.2.0/cmath \
-  C:/msys64/mingw64/include/c++/14.2.0/codecvt \
   C:/msys64/mingw64/include/c++/14.2.0/compare \
   C:/msys64/mingw64/include/c++/14.2.0/concepts \
   C:/msys64/mingw64/include/c++/14.2.0/cstddef \
@@ -1876,7 +1973,6 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
   C:/msys64/mingw64/include/c++/14.2.0/ext/numeric_traits.h \
   C:/msys64/mingw64/include/c++/14.2.0/ext/string_conversions.h \
   C:/msys64/mingw64/include/c++/14.2.0/ext/type_traits.h \
-  C:/msys64/mingw64/include/c++/14.2.0/filesystem \
   C:/msys64/mingw64/include/c++/14.2.0/format \
   C:/msys64/mingw64/include/c++/14.2.0/functional \
   C:/msys64/mingw64/include/c++/14.2.0/initializer_list \
@@ -1993,6 +2089,9 @@ CMakeFiles/main.dir/src/ApiServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotli
 CMakeFiles/main.dir/src/MobileServer.cpp.obj: C:/projetos/cpp/feevale/projeto-kotlin-server/src/MobileServer.cpp \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QByteArray \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QDebug \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonDocument \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonObject \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QList \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QMap \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QSet \
@@ -2018,6 +2117,9 @@ CMakeFiles/main.dir/src/MobileServer.cpp.obj: C:/projetos/cpp/feevale/projeto-ko
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcborcommon.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcborvalue.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h \
@@ -2031,7 +2133,9 @@ CMakeFiles/main.dir/src/MobileServer.cpp.obj: C:/projetos/cpp/feevale/projeto-ko
   C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdatetime.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qendian.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qexceptionhandling.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qfloat16.h \
@@ -2047,8 +2151,13 @@ CMakeFiles/main.dir/src/MobileServer.cpp.obj: C:/projetos/cpp/feevale/projeto-ko
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevicebase.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiterable.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsondocument.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonobject.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonparseerror.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonvalue.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h \
@@ -2066,6 +2175,7 @@ CMakeFiles/main.dir/src/MobileServer.cpp.obj: C:/projetos/cpp/feevale/projeto-ko
   C:/Qt/6.9.1/mingw_64/include/QtCore/qpair.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qregularexpression.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qscopeguard.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qset.h \
@@ -2111,7 +2221,9 @@ CMakeFiles/main.dir/src/MobileServer.cpp.obj: C:/projetos/cpp/feevale/projeto-ko
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/quuid.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h \
@@ -2477,8 +2589,6 @@ C:/msys64/mingw64/include/c++/14.2.0/numeric:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWebpPluginConfig.cmake:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/qfile.h:
-
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CheckCXXCompilerFlag.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CheckCXXSourceCompiles.cmake:
@@ -2526,8 +2636,6 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/GNUInstallDirs.cmake:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/QTextStream:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CMakeCXXLinkerInformation.cmake:
 
@@ -2607,8 +2715,6 @@ C:/projetos/cpp/feevale/projeto-kotlin-server/main.cpp:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-Initialize.cmake:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/qdirlisting.h:
-
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/WindowsPaths.cmake:
@@ -2658,8 +2764,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qsharedpointer_impl.h:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/q26numeric.h:
-
-C:/msys64/mingw64/include/c++/14.2.0/filesystem:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/stl_heap.h:
 
@@ -2779,6 +2883,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qforeach.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonObject:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionaltools_impl.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionpointer.h:
@@ -2848,8 +2954,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h:
 C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qfiledevice.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h:
 
@@ -2943,8 +3047,6 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringmatcher.h:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/QFile:
-
 C:/msys64/mingw64/include/c++/14.2.0/ostream:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringtokenizer.h:
@@ -2984,8 +3086,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qtcoreglobal.h:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTgaPluginConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h:
-
-C:/msys64/mingw64/include/c++/14.2.0/bits/fs_path.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationmarkers.h:
 
@@ -3047,6 +3147,8 @@ C:/Qt/6.9.1/mingw_64/include/QtWebSockets/QWebSocketServer:
 
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/QAbstractSocket:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonparseerror.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/QHostAddress:
 
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/QNetworkProxy:
@@ -3072,8 +3174,6 @@ C:/Qt/6.9.1/mingw_64/include/QtNetwork/QSslError:
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpServer:
 
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/QTcpSocket:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qfileinfo.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake:
 
@@ -3114,6 +3214,8 @@ C:/msys64/mingw64/include/c++/14.2.0/variant:
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslcertificate.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qcborcommon.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtNetwork/qsslconfiguration.h:
 
@@ -3345,8 +3447,6 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:
 
-C:/msys64/mingw64/include/c++/14.2.0/bits/fs_fwd.h:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake:
@@ -3419,8 +3519,6 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmak
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginConfig.cmake:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/qtimezone.h:
-
 C:/msys64/mingw64/include/c++/14.2.0/pstl/glue_memory_defs.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkAdditionalTargetInfo.cmake:
@@ -3455,7 +3553,11 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginConfig.cmake:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonobject.h:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qregularexpression.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets.cmake:
 
@@ -3535,11 +3637,11 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cma
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6NetworkPrivate/Qt6NetworkPrivateDependencies.cmake:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonArray:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6NetworkPrivate/Qt6NetworkPrivateTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Test/Qt6TestAdditionalTargetInfo.cmake:
-
-C:/msys64/mingw64/include/c++/14.2.0/bits/fs_dir.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/enable_special_members.h:
 
@@ -3619,8 +3721,6 @@ C:/msys64/mingw64/include/c++/14.2.0/bits/uniform_int_dist.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfig.cmake:
 
-C:/msys64/mingw64/include/c++/14.2.0/codecvt:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake:
@@ -3666,8 +3766,6 @@ C:/msys64/mingw64/include/c++/14.2.0/bits/hashtable.h:
 C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/ios_base.h:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qdir.h:
 
 C:/msys64/mingw64/include/c++/14.2.0/bits/istream.tcc:
 
@@ -3947,6 +4045,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qeventloop.h:
 
 C:/msys64/mingw64/include/_mingw_stdarg.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qendian.h:
+
 C:/msys64/mingw64/include/c++/14.2.0/numbers:
 
 C:/msys64/mingw64/include/c++/14.2.0/pstl/pstl_config.h:
@@ -3967,10 +4067,18 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qtmocconstants.h:
 
 main_autogen/6YEA5652QU/moc_ApiServer.cpp:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/QDir:
+C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonDocument:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/QIODeviceBase:
+C:/Qt/6.9.1/mingw_64/include/QtCore/QJsonValue:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/QTimer:
 
-C:/msys64/mingw64/include/c++/14.2.0/bits/fs_ops.h:
+C:/Qt/6.9.1/mingw_64/include/QtCore/qcborvalue.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonarray.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qjsondocument.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qjsonvalue.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/quuid.h:

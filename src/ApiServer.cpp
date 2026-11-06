@@ -16,8 +16,18 @@ using std::function;
 
 namespace {
 
-const char *MOBILE_HOST = "127.0.0.1";
-constexpr quint16 MOBILE_PORT = 5000;
+// Host/porta do MobileServer. Podem ser sobrescritos por variavel de ambiente
+// (MOBILE_HOST / MOBILE_PORT) sem precisar recompilar.
+const QString MOBILE_HOST = qEnvironmentVariable("MOBILE_HOST", "127.0.0.1");
+
+quint16 mobilePort()
+{
+    bool ok = false;
+    const int p = qEnvironmentVariableIntValue("MOBILE_PORT", &ok);
+    return (ok && p > 0 && p < 65536) ? quint16(p) : quint16(5000);
+}
+
+const quint16 MOBILE_PORT = mobilePort();
 constexpr int MOBILE_TIMEOUT_MS = 10000;
 
 struct MobileMessage {
@@ -41,7 +51,7 @@ MobileMessage parseMobileLine(QByteArray line)
     return msg;
 }
 
-// JSON de verdade quando possível; senão, string.
+// JSON de verdade quando possivel; senao, string.
 QJsonValue bodyToJson(const QByteArray &body, bool tryJson)
 {
     if (tryJson) {
@@ -95,11 +105,14 @@ ApiServer::~ApiServer()
 void ApiServer::start()
 {
     if (!server.listen(QHostAddress::Any, port)) {
-        qWarning() << server.errorString();
+        qCritical() << "Erro ao iniciar ApiServer na porta" << port
+                    << ":" << server.errorString();
         return;
     }
 
     qInfo() << "WebSocket server listening on port" << port << "...";
+    qInfo() << "ApiServer vai conectar no MobileServer em"
+            << MOBILE_HOST << ":" << MOBILE_PORT;
 }
 
 void ApiServer::quit()
@@ -139,9 +152,11 @@ void ApiServer::disconnected()
     if (!socket)
         return;
 
-    qInfo() << "Disconnected:" << socket->peerAddress().toString();
+    qInfo() << "Disconnected:" << socket->peerAddress().toString()
+            << "codigo:" << socket->closeCode()
+            << "motivo:" << socket->closeReason();
 
-    // Cliente saiu: encerra as conexões persistentes dele com o MobileServer.
+    // Cliente saiu: encerra as conexoes persistentes dele com o MobileServer.
     closeWatches(socket);
 
     clients.removeAll(socket);
@@ -172,7 +187,7 @@ void ApiServer::closeWatches(QWebSocket *client)
 //   "/home"
 //   "/api/<device>"
 //   "/connect_device/<device>"
-// (um prefixo opcional "GET " também é aceito)
+// (um prefixo opcional "GET " tambem e aceito)
 void ApiServer::textMessageReceived(const QString &message)
 {
     QWebSocket *client = qobject_cast<QWebSocket*>(sender());
@@ -208,7 +223,7 @@ void ApiServer::textMessageReceived(const QString &message)
     routes["/api"] = [this, ws, device]() {
         if (!ws) return;
         if (device.isEmpty() || device.contains('/')) {
-            sendResponse(ws, 400, "text/plain", "Device inválido");
+            sendResponse(ws, 400, "text/plain", "Device invalido");
             return;
         }
         callMobileServer(ws, device.toUtf8());
@@ -217,13 +232,14 @@ void ApiServer::textMessageReceived(const QString &message)
     routes["/connect_device"] = [this, ws, device]() {
         if (!ws) return;
         if (device.isEmpty() || device.contains('/')) {
-            sendResponse(ws, 400, "text/plain", "Device inválido");
+            sendResponse(ws, 400, "text/plain", "Device invalido");
             return;
         }
         watchDevice(ws, device);
     };
 
     if (!routes.contains(route)) {
+        qWarning() << "Rota desconhecida:" << route;
         sendResponse(client, 404, "text/plain", "Not Found");
         return;
     }
@@ -231,7 +247,7 @@ void ApiServer::textMessageReceived(const QString &message)
     routes[route]();
 }
 
-// Resposta a uma requisição do cliente:
+// Resposta a uma requisicao do cliente:
 //   { "type": "response", "status": 200, "contentType": "...", "body": <string ou JSON> }
 void ApiServer::sendResponse(QWebSocket *client,
                              int status,
@@ -247,7 +263,7 @@ void ApiServer::sendResponse(QWebSocket *client,
     sendJson(client, obj);
 }
 
-// Evento espontâneo enviado pelo MobileServer (ex.: celular desconectou):
+// Evento espontaneo enviado pelo MobileServer (ex.: celular desconectou):
 //   { "type": "event", "device": "<id>", "body": { "event": "device_disconnected", ... } }
 void ApiServer::sendEvent(QWebSocket *client,
                           const QString &device,
@@ -262,10 +278,13 @@ void ApiServer::sendEvent(QWebSocket *client,
 }
 
 // ---------------------------------------------------------------------------
-// /api/<device>  ->  uma requisição ao MobileServer, uma resposta, fecha.
+// /api/<device>  ->  uma requisicao ao MobileServer, uma resposta, fecha.
 // ---------------------------------------------------------------------------
 void ApiServer::callMobileServer(QWebSocket *client, const QByteArray &device)
 {
+    qInfo() << "api: iniciando conexao com MobileServer para" << device
+            << "->" << MOBILE_HOST << ":" << MOBILE_PORT;
+
     auto *socket = new QTcpSocket(this);
 
     QPointer<QWebSocket> wsClient = client;
@@ -290,9 +309,16 @@ void ApiServer::callMobileServer(QWebSocket *client, const QByteArray &device)
         }
     };
 
+    connect(socket, &QTcpSocket::stateChanged, this,
+            [device](QAbstractSocket::SocketState s) {
+        qInfo() << "api: estado do socket" << s << "device" << device;
+    });
+
     connect(socket, &QTcpSocket::connected, this, [mobile, device]() {
         if (!mobile)
             return;
+
+        qInfo() << "api: TCP conectado, enviando GET para" << device;
 
         mobile->write("API_SERVER GET\n" + device + "\n");
         mobile->flush();
@@ -321,17 +347,23 @@ void ApiServer::callMobileServer(QWebSocket *client, const QByteArray &device)
     });
 
     connect(socket, &QTcpSocket::errorOccurred, this,
-            [finish](QAbstractSocket::SocketError) {
+            [finish, mobile](QAbstractSocket::SocketError e) {
+        qWarning() << "api: erro no socket do MobileServer:" << e
+                   << (mobile ? mobile->errorString() : QString());
         finish(502, "text/plain; charset=utf-8",
                "Erro ao comunicar com o servidor Mobile");
     });
 
     connect(socket, &QTcpSocket::disconnected, this, [finish]() {
+        qWarning() << "api: MobileServer encerrou a conexao";
         finish(502, "text/plain; charset=utf-8",
-               "Servidor Mobile encerrou a conexão");
+               "Servidor Mobile encerrou a conexao");
     });
 
-    QTimer::singleShot(MOBILE_TIMEOUT_MS, socket, [finish]() {
+    QTimer::singleShot(MOBILE_TIMEOUT_MS, socket, [finish, mobile, device]() {
+        qWarning() << "api: timeout para" << device << "estado do socket:"
+                   << (mobile ? int(mobile->state()) : -1)
+                   << (mobile ? mobile->errorString() : QString());
         finish(504, "text/plain; charset=utf-8",
                "Timeout ao aguardar o servidor Mobile");
     });
@@ -340,18 +372,21 @@ void ApiServer::callMobileServer(QWebSocket *client, const QByteArray &device)
 }
 
 // ---------------------------------------------------------------------------
-// /connect_device/<device>  ->  conexão persistente.
+// /connect_device/<device>  ->  conexao persistente.
 //
-// 1ª linha vinda do MobileServer = resposta ao CONNECT (vai como "response").
-// Linhas seguintes = eventos (vão como "event"), por exemplo
+// 1a linha vinda do MobileServer = resposta ao CONNECT (vai como "response").
+// Linhas seguintes = eventos (vao como "event"), por exemplo
 // {"event":"device_disconnected", ...}. Ao receber esse evento, ou se a
-// conexão com o MobileServer cair, a sessão é encerrada.
+// conexao com o MobileServer cair, a sessao e encerrada.
 // ---------------------------------------------------------------------------
 void ApiServer::watchDevice(QWebSocket *client, const QString &device)
 {
+    qInfo() << "watch: iniciando conexao com MobileServer para" << device
+            << "->" << MOBILE_HOST << ":" << MOBILE_PORT;
+
     auto &mine = watches[client];
 
-    // Se esse cliente já observa esse device, descarta a conexão antiga.
+    // Se esse cliente ja observa esse device, descarta a conexao antiga.
     if (QTcpSocket *old = mine.take(device)) {
         old->disconnect(this);
         old->disconnectFromHost();
@@ -365,8 +400,8 @@ void ApiServer::watchDevice(QWebSocket *client, const QString &device)
     QPointer<QTcpSocket> mobile = socket;
 
     auto buffer   = std::make_shared<QByteArray>();
-    auto answered = std::make_shared<bool>(false);  // CONNECT já foi respondido?
-    auto closed   = std::make_shared<bool>(false);  // sessão encerrada?
+    auto answered = std::make_shared<bool>(false);  // CONNECT ja foi respondido?
+    auto closed   = std::make_shared<bool>(false);  // sessao encerrada?
 
     auto teardown = [this, ws, mobile, device, closed]() {
         *closed = true;
@@ -400,9 +435,16 @@ void ApiServer::watchDevice(QWebSocket *client, const QString &device)
         teardown();
     };
 
+    connect(socket, &QTcpSocket::stateChanged, this,
+            [device](QAbstractSocket::SocketState s) {
+        qInfo() << "watch: estado do socket" << s << "device" << device;
+    });
+
     connect(socket, &QTcpSocket::connected, this, [mobile, device]() {
         if (!mobile)
             return;
+
+        qInfo() << "watch: TCP conectado, enviando CONNECT para" << device;
 
         mobile->write("API_SERVER CONNECT\n" + device.toUtf8() + "\n");
         mobile->flush();
@@ -432,7 +474,7 @@ void ApiServer::watchDevice(QWebSocket *client, const QString &device)
                 *answered = true;
                 sendResponse(ws, 200, msg.contentType, msg.body);
 
-                // Device não encontrado: não há o que observar.
+                // Device nao encontrado: nao ha o que observar.
                 if (!bodyToObject(msg.body).value("connected").toBool())
                     teardown();
 
@@ -449,15 +491,26 @@ void ApiServer::watchDevice(QWebSocket *client, const QString &device)
     });
 
     connect(socket, &QTcpSocket::errorOccurred, this,
-            [lost](QAbstractSocket::SocketError) { lost(); });
+            [lost, mobile](QAbstractSocket::SocketError e) {
+        qWarning() << "watch: erro no socket do MobileServer:" << e
+                   << (mobile ? mobile->errorString() : QString());
+        lost();
+    });
 
-    connect(socket, &QTcpSocket::disconnected, this, [lost]() { lost(); });
+    connect(socket, &QTcpSocket::disconnected, this, [lost]() {
+        qWarning() << "watch: MobileServer encerrou a conexao";
+        lost();
+    });
 
-    // Timeout só vale até o CONNECT ser respondido.
+    // Timeout so vale ate o CONNECT ser respondido.
     QTimer::singleShot(MOBILE_TIMEOUT_MS, socket,
-                       [this, ws, answered, closed, teardown]() {
+                       [this, ws, mobile, device, answered, closed, teardown]() {
         if (*closed || *answered)
             return;
+
+        qWarning() << "watch: timeout para" << device << "estado do socket:"
+                   << (mobile ? int(mobile->state()) : -1)
+                   << (mobile ? mobile->errorString() : QString());
 
         sendResponse(ws, 504, "text/plain; charset=utf-8",
                      "Timeout ao aguardar o servidor Mobile");
